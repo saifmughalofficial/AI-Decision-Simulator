@@ -1,0 +1,12 @@
+﻿streamlit>=1.50
+polars>=1.0
+duckdb>=1.0
+pyarrow>=15.0
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+requests>=2.31
+python-dotenv>=1.0
+# Optional (faster search on very large datasets; the app falls back to scikit-learn automatically):
+# faiss-cpu

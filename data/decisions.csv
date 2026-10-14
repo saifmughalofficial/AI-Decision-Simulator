@@ -1,0 +1,1001 @@
+decision_id,decision_type,context,choice,previous_experience,risk_level,time_available,expected_result,actual_result,satisfaction,outcome_score,date
+D0001,health,Booking a health check-up,act_now,positive,medium,months,positive,positive,7,67,2024-02-29
+D0002,relationships,Having a serious conversation,decline,negative,high,months,positive,negative,4,37,2025-02-04
+D0003,purchase,Buying a new laptop,decline,positive,low,days,positive,positive,9,87,2025-09-29
+D0004,purchase,Renting a bigger place,wait,positive,medium,days,positive,mixed,5,45,2026-01-06
+D0005,career,Job offer at a new company,act_now,none,high,weeks,mixed,negative,3,37,2026-08-16
+D0006,career,Job offer at a new company,decline,negative,medium,months,positive,mixed,6,49,2024-12-04
+D0007,health,Changing my diet,act_now,negative,high,days,mixed,positive,8,80,2026-05-10
+D0008,travel,Planning a trip abroad,decline,negative,high,days,positive,positive,6,72,2024-08-01
+D0009,health,Starting a new fitness routine,act_now,mixed,medium,days,positive,positive,6,75,2025-09-15
+D0010,other,A personal decision,compromise,mixed,low,months,positive,mixed,4,51,2026-07-01
+D0011,productivity,Taking on an extra project,wait,none,low,weeks,mixed,positive,6,61,2024-09-29
+D0012,relationships,Having a serious conversation,wait,mixed,low,weeks,positive,positive,10,89,2024-09-13
+D0013,relationships,Reconnecting with an old friend,act_now,positive,medium,days,positive,positive,6,73,2025-05-02
+D0014,career,Asked to lead a team,wait,negative,high,weeks,positive,mixed,4,45,2024-03-09
+D0015,career,Considering a career switch,compromise,positive,low,weeks,mixed,positive,7,71,2023-12-03
+D0016,career,Considering a career switch,compromise,none,low,weeks,positive,positive,8,67,2026-02-16
+D0017,finance,Starting a side business,wait,none,high,days,negative,positive,5,63,2026-06-18
+D0018,productivity,Adopting a new daily schedule,compromise,mixed,low,months,mixed,mixed,6,56,2025-08-05
+D0019,productivity,Dropping a low-value task,act_now,none,high,days,positive,positive,5,60,2023-09-29
+D0020,other,A general life choice,wait,none,low,days,positive,positive,6,82,2023-12-15
+D0021,relationships,Moving in together,act_now,positive,medium,weeks,positive,positive,7,71,2025-03-18
+D0022,other,A general life choice,act_now,positive,low,weeks,positive,positive,7,65,2026-09-18
+D0023,relationships,Having a serious conversation,compromise,positive,medium,months,mixed,positive,8,88,2025-05-07
+D0024,health,Changing my diet,decline,positive,medium,weeks,negative,positive,9,87,2025-11-29
+D0025,finance,Investing a portion of savings,act_now,positive,high,hours,negative,positive,8,72,2025-10-11
+D0026,career,Job offer at a new company,compromise,none,low,days,positive,positive,7,73,2024-03-30
+D0027,relationships,Having a serious conversation,decline,negative,low,weeks,positive,negative,4,32,2024-01-26
+D0028,finance,Starting a side business,wait,negative,low,days,positive,negative,4,27,2025-07-10
+D0029,career,Asked to lead a team,compromise,positive,high,months,positive,positive,7,76,2024-04-04
+D0030,health,Starting a new fitness routine,compromise,negative,medium,weeks,positive,positive,5,72,2024-12-03
+D0031,education,Enrolling in an online course,act_now,negative,medium,weeks,positive,mixed,6,58,2024-06-04
+D0032,health,Booking a health check-up,compromise,mixed,high,weeks,positive,positive,8,69,2024-12-10
+D0033,productivity,Dropping a low-value task,act_now,mixed,low,weeks,negative,positive,6,60,2026-03-24
+D0034,relationships,Moving in together,compromise,positive,high,days,mixed,positive,7,69,2026-09-17
+D0035,health,Starting a new fitness routine,wait,positive,high,weeks,positive,positive,8,70,2024-07-28
+D0036,purchase,Buying a new laptop,wait,positive,medium,days,positive,mixed,5,45,2025-02-20
+D0037,career,Asked to lead a team,act_now,positive,medium,days,mixed,positive,6,68,2024-11-24
+D0038,education,Changing my study plan,compromise,positive,high,hours,mixed,positive,5,73,2026-08-21
+D0039,career,Job offer at a new company,wait,positive,low,weeks,mixed,positive,9,80,2025-02-06
+D0040,other,A general life choice,compromise,none,high,hours,positive,negative,3,33,2024-09-10
+D0041,career,Job offer at a new company,act_now,none,high,days,positive,mixed,5,48,2026-04-07
+D0042,relationships,Reconnecting with an old friend,compromise,none,high,hours,mixed,negative,4,38,2024-04-11
+D0043,career,Job offer at a new company,act_now,none,medium,weeks,mixed,negative,3,31,2026-07-29
+D0044,finance,Investing a portion of savings,decline,positive,medium,hours,mixed,positive,8,80,2025-07-02
+D0045,career,Job offer at a new company,act_now,positive,medium,months,negative,positive,8,79,2025-02-10
+D0046,relationships,Having a serious conversation,decline,mixed,high,days,positive,mixed,7,46,2023-10-26
+D0047,finance,Investing a portion of savings,act_now,negative,medium,weeks,mixed,negative,2,31,2024-12-06
+D0048,career,Job offer at a new company,wait,negative,low,weeks,mixed,negative,3,36,2024-11-19
+D0049,travel,Relocating to another city,wait,negative,medium,days,negative,positive,6,60,2024-03-09
+D0050,health,Starting a new fitness routine,compromise,negative,high,weeks,positive,positive,9,82,2026-07-02
+D0051,education,Applying for a master's degree,act_now,negative,medium,hours,positive,negative,4,22,2026-01-06
+D0052,career,Asked to lead a team,act_now,positive,high,months,positive,positive,6,80,2023-12-17
+D0053,career,Considering a career switch,act_now,mixed,low,days,negative,positive,5,63,2024-05-01
+D0054,career,Considering a career switch,wait,negative,low,months,positive,positive,6,62,2026-01-01
+D0055,career,Asked to lead a team,act_now,none,medium,weeks,negative,positive,5,68,2024-03-04
+D0056,purchase,Renting a bigger place,decline,positive,low,days,positive,mixed,5,50,2025-02-21
+D0057,productivity,Taking on an extra project,wait,positive,medium,months,negative,positive,7,67,2024-11-06
+D0058,career,Job offer at a new company,act_now,none,low,months,positive,positive,6,77,2025-06-28
+D0059,purchase,Renting a bigger place,decline,positive,medium,weeks,negative,mixed,2,46,2024-11-12
+D0060,productivity,Dropping a low-value task,act_now,positive,medium,weeks,positive,positive,8,92,2024-04-09
+D0061,purchase,Replacing my phone,act_now,none,low,months,negative,positive,9,84,2026-01-04
+D0062,travel,Planning a trip abroad,act_now,mixed,high,months,positive,mixed,3,47,2025-08-17
+D0063,purchase,Renting a bigger place,decline,positive,high,weeks,mixed,positive,7,78,2026-01-13
+D0064,career,Asked to lead a team,wait,mixed,low,weeks,negative,mixed,5,59,2025-03-01
+D0065,productivity,Dropping a low-value task,act_now,mixed,medium,days,positive,negative,3,27,2025-05-21
+D0066,travel,Relocating to another city,compromise,none,medium,days,negative,mixed,6,58,2026-01-28
+D0067,career,Considering a career switch,act_now,none,low,hours,positive,positive,9,77,2024-01-28
+D0068,purchase,Replacing my phone,wait,none,high,days,mixed,positive,7,80,2026-02-01
+D0069,purchase,Renting a bigger place,act_now,none,low,days,mixed,mixed,5,47,2024-12-24
+D0070,health,Starting a new fitness routine,wait,positive,medium,months,mixed,positive,7,71,2025-10-11
+D0071,purchase,Buying a new laptop,compromise,mixed,medium,hours,positive,negative,2,31,2025-01-07
+D0072,health,Starting a new fitness routine,wait,negative,low,hours,positive,mixed,5,55,2023-10-22
+D0073,education,Applying for a master's degree,wait,none,low,months,positive,positive,6,73,2025-07-03
+D0074,travel,Accepting a work trip,compromise,none,low,days,positive,positive,8,66,2025-12-29
+D0075,career,Job offer at a new company,wait,positive,low,hours,positive,positive,8,78,2024-04-14
+D0076,career,Job offer at a new company,decline,none,medium,weeks,mixed,negative,5,43,2025-05-12
+D0077,travel,Planning a trip abroad,compromise,none,high,weeks,negative,positive,10,93,2026-04-16
+D0078,travel,Planning a trip abroad,decline,none,medium,days,positive,positive,6,79,2024-08-18
+D0079,purchase,Buying a new laptop,decline,positive,low,months,mixed,negative,4,42,2026-07-22
+D0080,health,Changing my diet,compromise,none,low,months,negative,positive,8,76,2025-06-28
+D0081,relationships,Having a serious conversation,act_now,none,medium,days,mixed,negative,2,18,2026-04-07
+D0082,productivity,Dropping a low-value task,act_now,mixed,medium,days,mixed,mixed,7,58,2024-08-01
+D0083,education,Changing my study plan,wait,none,high,weeks,positive,positive,7,69,2026-04-03
+D0084,career,Considering a career switch,compromise,none,low,months,mixed,negative,1,26,2024-10-20
+D0085,education,Changing my study plan,wait,positive,medium,months,negative,positive,6,64,2024-02-25
+D0086,career,Job offer at a new company,act_now,positive,low,months,positive,positive,9,93,2024-11-08
+D0087,relationships,Having a serious conversation,wait,negative,medium,months,positive,mixed,5,53,2024-06-06
+D0088,career,Job offer at a new company,decline,negative,high,days,positive,positive,8,75,2025-04-20
+D0089,finance,Investing a portion of savings,wait,negative,low,hours,positive,mixed,5,51,2024-02-01
+D0090,finance,Investing a portion of savings,act_now,positive,high,months,positive,negative,2,27,2025-07-03
+D0091,finance,Starting a side business,wait,none,high,weeks,positive,positive,7,71,2026-06-01
+D0092,relationships,Having a serious conversation,decline,none,medium,weeks,negative,negative,6,40,2025-07-05
+D0093,productivity,Dropping a low-value task,act_now,none,high,days,mixed,mixed,4,49,2026-05-02
+D0094,productivity,Taking on an extra project,act_now,mixed,low,days,mixed,positive,7,67,2025-10-01
+D0095,health,Starting a new fitness routine,wait,mixed,medium,days,negative,positive,9,80,2026-04-18
+D0096,relationships,Moving in together,act_now,none,low,hours,positive,mixed,6,53,2023-10-28
+D0097,health,Starting a new fitness routine,act_now,positive,high,weeks,positive,positive,8,80,2025-01-21
+D0098,education,Enrolling in an online course,compromise,mixed,high,months,mixed,positive,7,77,2024-06-22
+D0099,other,A personal decision,act_now,none,medium,days,negative,positive,8,74,2024-10-16
+D0100,purchase,Renting a bigger place,wait,mixed,medium,weeks,mixed,negative,2,22,2023-10-12
+D0101,career,Asked to lead a team,wait,positive,medium,months,negative,positive,8,71,2024-08-04
+D0102,purchase,Replacing my phone,wait,mixed,medium,weeks,positive,mixed,5,52,2024-08-24
+D0103,health,Booking a health check-up,act_now,none,medium,weeks,positive,mixed,3,46,2026-04-01
+D0104,productivity,Adopting a new daily schedule,act_now,mixed,low,days,negative,positive,9,82,2024-07-06
+D0105,relationships,Reconnecting with an old friend,decline,positive,medium,days,positive,positive,10,86,2025-05-31
+D0106,career,Asked to lead a team,wait,positive,medium,weeks,positive,positive,7,82,2024-08-15
+D0107,relationships,Reconnecting with an old friend,act_now,none,high,months,mixed,mixed,3,47,2026-01-13
+D0108,health,Booking a health check-up,wait,none,medium,days,positive,positive,8,80,2024-10-06
+D0109,productivity,Taking on an extra project,act_now,none,low,months,positive,negative,4,40,2026-05-22
+D0110,other,A general life choice,act_now,none,medium,weeks,positive,positive,6,60,2024-12-20
+D0111,finance,Starting a side business,compromise,mixed,low,months,positive,positive,7,73,2025-11-06
+D0112,purchase,Replacing my phone,compromise,positive,medium,hours,positive,positive,10,85,2026-03-15
+D0113,career,Considering a career switch,decline,negative,high,months,mixed,mixed,7,58,2024-08-04
+D0114,health,Starting a new fitness routine,compromise,none,high,hours,positive,positive,7,79,2026-01-20
+D0115,health,Changing my diet,decline,none,medium,months,negative,positive,5,73,2025-01-28
+D0116,travel,Relocating to another city,act_now,negative,medium,days,positive,negative,4,40,2025-10-22
+D0117,finance,Starting a side business,act_now,positive,low,hours,positive,positive,10,86,2024-08-21
+D0118,career,Asked to lead a team,decline,negative,medium,months,positive,negative,1,10,2025-04-25
+D0119,finance,Taking a small loan,decline,mixed,medium,months,mixed,negative,3,36,2025-08-14
+D0120,finance,Taking a small loan,wait,positive,high,weeks,positive,positive,8,79,2025-05-20
+D0121,purchase,Replacing my phone,act_now,none,low,months,positive,positive,8,82,2024-03-31
+D0122,productivity,Taking on an extra project,act_now,none,medium,days,positive,positive,5,61,2026-06-03
+D0123,career,Job offer at a new company,act_now,positive,low,days,mixed,positive,10,98,2025-06-24
+D0124,productivity,Dropping a low-value task,compromise,none,low,hours,mixed,negative,4,26,2026-06-04
+D0125,health,Booking a health check-up,compromise,none,medium,days,positive,mixed,5,49,2024-05-01
+D0126,health,Starting a new fitness routine,wait,positive,medium,days,positive,positive,8,76,2023-10-16
+D0127,productivity,Adopting a new daily schedule,wait,negative,medium,weeks,positive,negative,2,36,2024-06-01
+D0128,health,Starting a new fitness routine,wait,negative,medium,weeks,positive,positive,8,83,2025-10-26
+D0129,purchase,Renting a bigger place,wait,none,medium,months,mixed,positive,7,67,2026-06-03
+D0130,career,Job offer at a new company,compromise,negative,high,weeks,mixed,positive,9,70,2026-06-26
+D0131,purchase,Replacing my phone,compromise,negative,medium,hours,positive,negative,2,24,2024-03-08
+D0132,finance,Taking a small loan,act_now,positive,medium,weeks,positive,negative,1,21,2023-12-11
+D0133,productivity,Taking on an extra project,act_now,none,high,weeks,positive,negative,1,9,2023-12-07
+D0134,education,Applying for a master's degree,act_now,positive,high,days,positive,positive,9,94,2025-03-20
+D0135,purchase,Buying a new laptop,act_now,mixed,medium,weeks,positive,positive,9,85,2025-05-24
+D0136,finance,Starting a side business,act_now,none,high,weeks,mixed,positive,7,66,2023-10-07
+D0137,relationships,Having a serious conversation,wait,negative,low,weeks,mixed,positive,8,72,2025-02-06
+D0138,productivity,Dropping a low-value task,act_now,positive,high,hours,positive,positive,10,95,2026-07-12
+D0139,relationships,Having a serious conversation,wait,negative,low,months,negative,negative,4,37,2026-02-19
+D0140,productivity,Taking on an extra project,decline,positive,high,months,positive,negative,4,41,2025-07-28
+D0141,productivity,Adopting a new daily schedule,compromise,positive,medium,weeks,positive,mixed,6,58,2024-07-25
+D0142,travel,Relocating to another city,wait,positive,medium,hours,positive,mixed,8,57,2025-08-02
+D0143,productivity,Taking on an extra project,compromise,none,low,days,negative,positive,8,70,2025-12-14
+D0144,relationships,Moving in together,act_now,positive,medium,months,positive,mixed,5,59,2025-07-07
+D0145,productivity,Adopting a new daily schedule,act_now,positive,medium,days,positive,positive,7,77,2024-04-24
+D0146,purchase,Renting a bigger place,act_now,positive,low,hours,positive,positive,8,78,2025-11-26
+D0147,health,Changing my diet,wait,negative,low,weeks,negative,positive,8,74,2026-09-07
+D0148,productivity,Taking on an extra project,wait,none,high,weeks,negative,positive,6,61,2024-06-04
+D0149,education,Applying for a master's degree,decline,mixed,high,days,mixed,positive,9,85,2025-04-07
+D0150,finance,Starting a side business,decline,none,low,weeks,positive,negative,4,39,2026-06-08
+D0151,career,Asked to lead a team,act_now,none,medium,months,positive,mixed,4,52,2024-05-16
+D0152,career,Considering a career switch,act_now,negative,low,weeks,mixed,negative,3,37,2024-12-28
+D0153,travel,Accepting a work trip,wait,positive,low,days,positive,positive,8,73,2024-01-03
+D0154,finance,Taking a small loan,act_now,none,medium,days,negative,negative,2,20,2025-08-22
+D0155,purchase,Buying a new laptop,compromise,positive,medium,months,positive,positive,8,71,2024-08-09
+D0156,health,Booking a health check-up,wait,negative,medium,weeks,mixed,positive,6,68,2026-07-12
+D0157,other,A family decision,compromise,positive,low,weeks,positive,positive,9,89,2023-10-02
+D0158,finance,Investing a portion of savings,act_now,none,low,months,positive,positive,6,62,2024-07-07
+D0159,travel,Planning a trip abroad,act_now,positive,low,weeks,negative,positive,6,66,2025-01-18
+D0160,education,Applying for a master's degree,wait,none,high,months,positive,positive,5,61,2025-01-07
+D0161,other,A personal decision,act_now,none,medium,months,positive,positive,6,74,2026-01-09
+D0162,finance,Starting a side business,wait,negative,high,weeks,positive,mixed,5,46,2026-01-02
+D0163,finance,Starting a side business,decline,positive,low,weeks,positive,positive,9,72,2026-02-27
+D0164,productivity,Dropping a low-value task,compromise,none,low,days,positive,positive,7,69,2025-07-11
+D0165,education,Enrolling in an online course,act_now,none,medium,months,negative,positive,9,77,2026-07-08
+D0166,career,Asked to lead a team,compromise,negative,medium,months,mixed,positive,9,78,2023-10-24
+D0167,productivity,Taking on an extra project,wait,positive,high,weeks,positive,positive,7,82,2024-09-19
+D0168,relationships,Reconnecting with an old friend,wait,positive,high,days,positive,positive,7,72,2025-09-22
+D0169,other,A family decision,decline,positive,high,days,positive,positive,10,93,2024-12-10
+D0170,productivity,Taking on an extra project,act_now,positive,medium,months,positive,mixed,4,47,2026-01-11
+D0171,purchase,Renting a bigger place,compromise,none,low,weeks,positive,mixed,5,57,2024-04-13
+D0172,career,Asked to lead a team,wait,positive,low,weeks,positive,positive,6,62,2025-02-03
+D0173,travel,Relocating to another city,act_now,none,low,months,positive,positive,5,77,2026-06-05
+D0174,health,Booking a health check-up,decline,none,high,months,negative,positive,8,82,2026-03-24
+D0175,productivity,Adopting a new daily schedule,act_now,none,low,hours,positive,positive,9,69,2026-08-24
+D0176,travel,Relocating to another city,wait,positive,medium,months,positive,positive,6,73,2024-08-15
+D0177,health,Booking a health check-up,act_now,positive,low,days,mixed,positive,7,81,2024-10-18
+D0178,career,Asked to lead a team,decline,negative,low,weeks,positive,negative,3,33,2025-09-19
+D0179,relationships,Moving in together,decline,mixed,low,weeks,positive,negative,2,33,2026-07-31
+D0180,career,Asked to lead a team,act_now,negative,medium,days,positive,negative,4,36,2025-02-11
+D0181,relationships,Reconnecting with an old friend,compromise,negative,medium,weeks,positive,mixed,5,52,2025-03-11
+D0182,health,Booking a health check-up,wait,positive,medium,days,positive,mixed,6,59,2025-08-20
+D0183,purchase,Replacing my phone,act_now,mixed,low,months,mixed,positive,8,75,2025-10-23
+D0184,purchase,Buying a new laptop,act_now,positive,medium,months,positive,negative,1,16,2025-09-07
+D0185,finance,Taking a small loan,wait,positive,high,weeks,positive,mixed,6,54,2025-08-06
+D0186,travel,Relocating to another city,act_now,negative,high,months,positive,mixed,5,51,2024-10-28
+D0187,relationships,Reconnecting with an old friend,wait,mixed,medium,weeks,positive,positive,7,70,2025-02-20
+D0188,health,Starting a new fitness routine,act_now,positive,medium,hours,positive,positive,7,69,2024-09-03
+D0189,career,Considering a career switch,wait,none,high,days,positive,positive,7,82,2025-05-19
+D0190,productivity,Taking on an extra project,act_now,none,high,weeks,mixed,positive,8,84,2026-02-22
+D0191,other,A personal decision,wait,negative,medium,days,mixed,mixed,7,51,2025-08-28
+D0192,health,Starting a new fitness routine,decline,mixed,high,months,mixed,mixed,5,55,2024-08-26
+D0193,career,Job offer at a new company,act_now,negative,medium,days,negative,negative,4,34,2025-02-19
+D0194,productivity,Dropping a low-value task,compromise,none,high,months,positive,negative,4,31,2026-07-14
+D0195,relationships,Moving in together,decline,negative,medium,days,negative,negative,4,27,2025-03-01
+D0196,health,Booking a health check-up,act_now,positive,medium,days,negative,mixed,5,58,2025-03-04
+D0197,finance,Starting a side business,compromise,negative,high,days,mixed,negative,3,25,2024-10-20
+D0198,career,Considering a career switch,act_now,mixed,low,hours,positive,positive,8,76,2026-08-29
+D0199,health,Starting a new fitness routine,compromise,negative,high,weeks,positive,positive,7,77,2025-12-03
+D0200,purchase,Replacing my phone,act_now,none,low,weeks,positive,positive,7,73,2024-09-05
+D0201,education,Applying for a master's degree,decline,none,low,days,positive,negative,4,44,2024-03-12
+D0202,relationships,Moving in together,act_now,mixed,low,weeks,positive,positive,8,79,2023-10-19
+D0203,purchase,Buying a new laptop,act_now,positive,medium,months,positive,negative,3,36,2025-02-15
+D0204,education,Enrolling in an online course,compromise,none,medium,months,positive,positive,8,63,2026-09-05
+D0205,career,Job offer at a new company,compromise,none,medium,hours,negative,positive,8,80,2023-10-25
+D0206,health,Starting a new fitness routine,compromise,negative,low,months,positive,positive,8,71,2024-08-13
+D0207,career,Considering a career switch,wait,none,medium,days,positive,mixed,5,45,2025-10-28
+D0208,health,Starting a new fitness routine,act_now,positive,medium,days,positive,negative,3,27,2025-01-27
+D0209,finance,Taking a small loan,decline,none,high,months,negative,negative,2,34,2025-04-08
+D0210,career,Job offer at a new company,wait,mixed,low,weeks,positive,positive,8,81,2023-11-26
+D0211,finance,Investing a portion of savings,act_now,none,low,days,positive,positive,5,76,2025-10-02
+D0212,career,Considering a career switch,act_now,positive,high,months,mixed,positive,6,71,2026-07-13
+D0213,travel,Accepting a work trip,compromise,negative,high,months,negative,positive,5,67,2025-05-26
+D0214,career,Asked to lead a team,decline,none,high,months,positive,positive,6,65,2023-10-20
+D0215,career,Job offer at a new company,wait,none,medium,weeks,positive,negative,5,43,2024-06-19
+D0216,health,Starting a new fitness routine,wait,none,medium,days,negative,positive,7,70,2023-11-04
+D0217,other,A personal decision,compromise,positive,high,days,mixed,positive,9,84,2025-10-14
+D0218,productivity,Adopting a new daily schedule,act_now,mixed,medium,hours,positive,mixed,5,54,2025-11-07
+D0219,purchase,Buying a new laptop,act_now,positive,high,days,positive,positive,7,67,2025-04-28
+D0220,career,Considering a career switch,compromise,negative,high,weeks,negative,mixed,9,58,2024-10-08
+D0221,finance,Investing a portion of savings,act_now,negative,medium,days,positive,negative,5,42,2024-12-17
+D0222,purchase,Replacing my phone,act_now,mixed,low,months,positive,negative,4,42,2023-12-03
+D0223,health,Changing my diet,act_now,none,medium,days,mixed,mixed,6,57,2025-09-29
+D0224,education,Enrolling in an online course,wait,positive,medium,weeks,mixed,negative,3,38,2025-09-05
+D0225,education,Changing my study plan,decline,positive,medium,hours,positive,positive,8,76,2026-06-29
+D0226,productivity,Dropping a low-value task,decline,mixed,high,months,positive,mixed,5,45,2026-04-08
+D0227,purchase,Buying a new laptop,wait,none,low,weeks,mixed,positive,6,65,2026-06-26
+D0228,finance,Investing a portion of savings,compromise,positive,medium,days,positive,positive,5,69,2024-01-15
+D0229,purchase,Replacing my phone,compromise,positive,medium,weeks,positive,positive,7,64,2025-11-09
+D0230,productivity,Taking on an extra project,compromise,none,medium,days,mixed,positive,9,83,2024-04-06
+D0231,productivity,Taking on an extra project,act_now,none,medium,hours,positive,mixed,3,45,2026-05-03
+D0232,health,Changing my diet,wait,negative,high,days,positive,mixed,5,46,2025-01-25
+D0233,career,Job offer at a new company,act_now,none,medium,days,negative,mixed,8,54,2026-07-05
+D0234,career,Considering a career switch,act_now,positive,low,weeks,positive,positive,9,71,2024-01-26
+D0235,career,Asked to lead a team,compromise,none,medium,months,positive,positive,8,79,2026-07-20
+D0236,health,Starting a new fitness routine,wait,negative,low,days,mixed,mixed,3,48,2025-01-05
+D0237,purchase,Renting a bigger place,compromise,none,low,hours,positive,positive,10,76,2025-09-23
+D0238,career,Job offer at a new company,wait,positive,medium,hours,positive,positive,6,66,2025-03-23
+D0239,relationships,Having a serious conversation,wait,positive,high,months,positive,mixed,6,54,2024-02-13
+D0240,productivity,Adopting a new daily schedule,decline,positive,medium,weeks,positive,positive,10,90,2026-04-28
+D0241,productivity,Taking on an extra project,act_now,none,high,hours,mixed,negative,2,10,2024-03-13
+D0242,purchase,Replacing my phone,compromise,positive,medium,days,mixed,positive,5,69,2025-07-01
+D0243,purchase,Replacing my phone,compromise,none,low,weeks,positive,positive,6,64,2024-03-08
+D0244,relationships,Having a serious conversation,decline,positive,medium,months,positive,positive,7,81,2026-06-03
+D0245,health,Changing my diet,compromise,mixed,low,weeks,mixed,positive,7,61,2023-11-08
+D0246,education,Applying for a master's degree,wait,positive,medium,weeks,positive,positive,7,71,2026-04-03
+D0247,productivity,Adopting a new daily schedule,wait,none,low,days,negative,negative,4,43,2025-01-06
+D0248,relationships,Reconnecting with an old friend,compromise,negative,low,months,positive,mixed,4,49,2024-06-30
+D0249,health,Changing my diet,act_now,mixed,high,months,negative,positive,8,71,2026-07-26
+D0250,purchase,Replacing my phone,wait,negative,low,hours,positive,negative,2,24,2023-12-29
+D0251,finance,Starting a side business,act_now,mixed,medium,weeks,negative,negative,4,36,2023-11-23
+D0252,relationships,Having a serious conversation,decline,mixed,medium,hours,positive,negative,3,30,2025-09-29
+D0253,health,Starting a new fitness routine,wait,negative,low,days,positive,negative,5,41,2024-11-20
+D0254,finance,Taking a small loan,wait,negative,medium,months,positive,positive,9,88,2025-12-20
+D0255,career,Asked to lead a team,decline,mixed,medium,weeks,positive,negative,3,38,2025-05-11
+D0256,other,A personal decision,act_now,mixed,high,months,negative,negative,2,19,2023-12-13
+D0257,productivity,Taking on an extra project,act_now,positive,low,days,positive,positive,8,72,2026-02-18
+D0258,education,Changing my study plan,decline,positive,medium,days,positive,positive,5,67,2023-12-05
+D0259,other,A family decision,wait,mixed,medium,months,positive,positive,9,72,2024-05-17
+D0260,education,Changing my study plan,compromise,positive,medium,months,negative,mixed,6,55,2025-01-22
+D0261,productivity,Adopting a new daily schedule,compromise,positive,low,months,positive,positive,8,78,2026-07-22
+D0262,finance,Starting a side business,act_now,negative,high,weeks,positive,negative,2,31,2025-12-26
+D0263,finance,Taking a small loan,decline,positive,medium,months,mixed,positive,9,76,2026-09-20
+D0264,travel,Planning a trip abroad,compromise,negative,high,weeks,mixed,mixed,6,58,2025-02-14
+D0265,finance,Taking a small loan,compromise,negative,medium,days,positive,negative,3,29,2024-07-08
+D0266,health,Booking a health check-up,decline,negative,medium,weeks,negative,negative,5,41,2024-08-26
+D0267,education,Enrolling in an online course,compromise,positive,low,weeks,mixed,positive,10,89,2026-03-22
+D0268,health,Changing my diet,compromise,negative,high,months,positive,mixed,6,50,2023-11-27
+D0269,productivity,Adopting a new daily schedule,decline,mixed,medium,months,positive,positive,6,60,2025-09-05
+D0270,purchase,Buying a new laptop,compromise,none,low,days,negative,negative,3,31,2025-07-10
+D0271,relationships,Moving in together,wait,positive,medium,weeks,positive,positive,6,61,2026-04-04
+D0272,productivity,Dropping a low-value task,act_now,none,medium,days,positive,positive,8,80,2025-12-18
+D0273,relationships,Moving in together,act_now,positive,low,months,positive,positive,5,69,2024-06-03
+D0274,career,Considering a career switch,act_now,positive,high,hours,mixed,negative,5,37,2025-02-27
+D0275,health,Booking a health check-up,decline,positive,low,days,mixed,positive,9,87,2026-07-27
+D0276,other,A personal decision,act_now,positive,high,hours,positive,negative,3,27,2026-06-06
+D0277,career,Considering a career switch,act_now,none,medium,days,positive,positive,7,77,2024-12-31
+D0278,education,Changing my study plan,compromise,none,medium,months,positive,negative,3,35,2025-02-18
+D0279,travel,Planning a trip abroad,compromise,negative,low,weeks,mixed,mixed,7,58,2024-05-05
+D0280,career,Asked to lead a team,act_now,positive,medium,hours,mixed,mixed,6,59,2025-12-21
+D0281,productivity,Dropping a low-value task,act_now,mixed,low,months,positive,negative,4,35,2024-03-30
+D0282,purchase,Replacing my phone,act_now,negative,medium,months,positive,negative,4,38,2025-03-02
+D0283,career,Considering a career switch,compromise,negative,medium,days,positive,positive,9,81,2026-07-05
+D0284,education,Changing my study plan,wait,negative,high,days,positive,negative,3,31,2026-02-19
+D0285,health,Booking a health check-up,wait,mixed,low,hours,mixed,mixed,6,54,2025-11-01
+D0286,career,Asked to lead a team,decline,negative,low,days,positive,negative,3,33,2025-09-29
+D0287,career,Job offer at a new company,act_now,none,medium,days,negative,negative,2,21,2025-07-17
+D0288,career,Asked to lead a team,act_now,positive,medium,weeks,positive,negative,4,30,2024-02-18
+D0289,education,Changing my study plan,wait,positive,low,months,positive,positive,8,74,2025-07-06
+D0290,relationships,Having a serious conversation,decline,none,medium,weeks,negative,negative,5,39,2024-02-08
+D0291,purchase,Replacing my phone,compromise,none,low,weeks,mixed,positive,7,61,2025-04-23
+D0292,purchase,Buying a new laptop,wait,none,medium,months,positive,mixed,5,57,2023-12-29
+D0293,career,Considering a career switch,compromise,none,high,days,mixed,positive,9,79,2026-09-02
+D0294,productivity,Adopting a new daily schedule,act_now,positive,low,months,positive,positive,7,67,2025-10-05
+D0295,productivity,Taking on an extra project,compromise,positive,low,weeks,positive,positive,8,67,2026-04-05
+D0296,finance,Starting a side business,wait,mixed,low,months,mixed,negative,3,26,2026-01-30
+D0297,productivity,Adopting a new daily schedule,decline,none,low,weeks,positive,positive,7,65,2023-12-10
+D0298,relationships,Reconnecting with an old friend,compromise,positive,low,weeks,positive,positive,6,62,2024-03-04
+D0299,career,Job offer at a new company,compromise,mixed,low,weeks,positive,positive,6,71,2025-09-27
+D0300,purchase,Buying a new laptop,act_now,positive,high,weeks,positive,positive,9,83,2024-12-27
+D0301,finance,Taking a small loan,wait,positive,medium,weeks,negative,positive,8,77,2026-09-20
+D0302,education,Enrolling in an online course,compromise,none,low,days,positive,negative,5,33,2025-10-30
+D0303,relationships,Reconnecting with an old friend,act_now,positive,high,weeks,mixed,negative,2,24,2024-09-10
+D0304,finance,Investing a portion of savings,compromise,none,medium,months,positive,positive,7,71,2025-03-22
+D0305,relationships,Moving in together,wait,none,high,days,mixed,negative,2,32,2026-07-16
+D0306,career,Job offer at a new company,compromise,positive,medium,months,mixed,positive,5,71,2024-06-01
+D0307,finance,Starting a side business,act_now,mixed,high,months,positive,negative,3,34,2024-05-03
+D0308,productivity,Adopting a new daily schedule,compromise,positive,high,weeks,positive,positive,7,68,2026-04-05
+D0309,other,A general life choice,act_now,positive,high,weeks,positive,negative,3,26,2026-08-31
+D0310,finance,Investing a portion of savings,act_now,positive,medium,weeks,positive,positive,6,67,2023-09-29
+D0311,career,Considering a career switch,act_now,negative,medium,days,mixed,negative,3,30,2024-07-15
+D0312,education,Applying for a master's degree,compromise,none,low,weeks,mixed,positive,8,74,2026-08-14
+D0313,finance,Investing a portion of savings,act_now,positive,low,months,negative,positive,7,60,2025-11-05
+D0314,career,Job offer at a new company,wait,negative,low,days,negative,negative,4,44,2025-05-03
+D0315,other,A family decision,compromise,none,medium,weeks,positive,positive,8,85,2024-04-30
+D0316,other,A family decision,decline,positive,high,weeks,positive,positive,9,83,2026-08-16
+D0317,productivity,Adopting a new daily schedule,act_now,negative,low,hours,positive,positive,10,92,2025-01-03
+D0318,finance,Starting a side business,act_now,mixed,medium,weeks,positive,mixed,6,50,2025-01-11
+D0319,purchase,Buying a new laptop,compromise,positive,medium,months,positive,positive,7,76,2023-10-17
+D0320,education,Enrolling in an online course,decline,positive,medium,days,positive,positive,7,68,2026-07-05
+D0321,finance,Taking a small loan,compromise,positive,medium,days,mixed,positive,7,66,2025-09-12
+D0322,health,Starting a new fitness routine,act_now,mixed,low,days,positive,positive,9,81,2024-08-01
+D0323,productivity,Taking on an extra project,wait,positive,low,hours,negative,mixed,6,50,2025-10-30
+D0324,other,A personal decision,wait,none,medium,hours,mixed,negative,1,22,2026-02-24
+D0325,career,Job offer at a new company,decline,none,medium,days,negative,positive,7,67,2025-10-05
+D0326,other,A personal decision,wait,mixed,medium,weeks,positive,mixed,5,57,2023-11-16
+D0327,purchase,Replacing my phone,act_now,none,low,days,positive,negative,5,41,2026-05-03
+D0328,education,Enrolling in an online course,decline,mixed,medium,weeks,positive,negative,3,43,2026-05-04
+D0329,productivity,Adopting a new daily schedule,act_now,none,high,weeks,mixed,positive,6,61,2025-10-09
+D0330,productivity,Adopting a new daily schedule,compromise,mixed,medium,days,positive,positive,8,64,2024-05-12
+D0331,career,Job offer at a new company,wait,positive,high,weeks,positive,positive,9,77,2024-12-30
+D0332,productivity,Taking on an extra project,act_now,none,low,days,positive,positive,7,72,2024-01-11
+D0333,education,Applying for a master's degree,compromise,none,low,weeks,mixed,positive,8,67,2025-09-30
+D0334,career,Considering a career switch,act_now,none,low,weeks,mixed,positive,9,72,2026-03-19
+D0335,finance,Taking a small loan,act_now,mixed,medium,days,positive,negative,3,28,2025-08-14
+D0336,productivity,Dropping a low-value task,act_now,positive,low,weeks,positive,positive,8,77,2025-11-04
+D0337,finance,Investing a portion of savings,compromise,positive,medium,days,positive,positive,7,71,2026-04-22
+D0338,career,Asked to lead a team,decline,positive,low,weeks,mixed,mixed,4,52,2025-04-20
+D0339,career,Job offer at a new company,compromise,mixed,high,months,positive,negative,4,38,2024-07-25
+D0340,purchase,Renting a bigger place,act_now,mixed,low,days,positive,mixed,6,59,2026-07-17
+D0341,productivity,Dropping a low-value task,act_now,mixed,medium,days,negative,negative,3,30,2025-06-14
+D0342,relationships,Moving in together,wait,positive,low,hours,positive,negative,3,28,2024-12-13
+D0343,finance,Starting a side business,act_now,none,medium,months,positive,positive,8,79,2023-12-03
+D0344,purchase,Renting a bigger place,wait,none,low,months,positive,negative,3,29,2026-07-01
+D0345,health,Booking a health check-up,compromise,none,low,months,positive,negative,2,21,2024-05-09
+D0346,health,Changing my diet,wait,mixed,medium,weeks,negative,mixed,5,57,2025-11-07
+D0347,health,Changing my diet,decline,positive,medium,weeks,positive,positive,9,72,2024-11-18
+D0348,relationships,Reconnecting with an old friend,act_now,positive,medium,days,positive,negative,3,27,2025-06-27
+D0349,education,Enrolling in an online course,wait,none,medium,weeks,mixed,positive,10,100,2025-05-05
+D0350,other,A general life choice,decline,positive,high,months,positive,positive,7,63,2024-04-22
+D0351,health,Changing my diet,compromise,none,medium,weeks,negative,positive,8,87,2023-11-01
+D0352,career,Job offer at a new company,act_now,negative,low,weeks,positive,positive,5,61,2026-01-16
+D0353,productivity,Dropping a low-value task,wait,positive,low,days,positive,positive,10,80,2026-01-01
+D0354,productivity,Taking on an extra project,wait,negative,medium,days,mixed,negative,3,24,2025-06-14
+D0355,purchase,Buying a new laptop,wait,positive,low,months,negative,positive,9,84,2026-01-23
+D0356,purchase,Buying a new laptop,act_now,negative,medium,days,mixed,positive,6,60,2026-04-09
+D0357,purchase,Buying a new laptop,compromise,negative,medium,months,mixed,negative,6,44,2025-07-27
+D0358,travel,Planning a trip abroad,act_now,positive,low,hours,positive,mixed,4,46,2025-12-10
+D0359,health,Starting a new fitness routine,act_now,positive,low,days,mixed,positive,8,66,2025-07-15
+D0360,relationships,Having a serious conversation,compromise,mixed,medium,days,mixed,positive,7,80,2025-12-31
+D0361,health,Booking a health check-up,compromise,mixed,medium,months,positive,positive,7,73,2024-06-22
+D0362,relationships,Having a serious conversation,wait,mixed,low,months,positive,positive,8,85,2024-08-05
+D0363,travel,Planning a trip abroad,act_now,none,high,days,positive,mixed,8,59,2023-11-28
+D0364,finance,Starting a side business,act_now,negative,low,days,positive,negative,3,41,2023-12-29
+D0365,productivity,Taking on an extra project,decline,none,medium,days,positive,positive,8,75,2024-03-14
+D0366,finance,Investing a portion of savings,act_now,positive,high,days,mixed,mixed,4,47,2026-09-24
+D0367,education,Applying for a master's degree,wait,none,low,days,positive,positive,6,60,2026-01-09
+D0368,career,Considering a career switch,wait,positive,medium,days,mixed,positive,5,71,2023-10-11
+D0369,career,Considering a career switch,act_now,negative,medium,weeks,negative,mixed,5,55,2025-01-01
+D0370,productivity,Taking on an extra project,compromise,positive,high,months,negative,positive,7,74,2026-04-16
+D0371,travel,Relocating to another city,compromise,positive,low,weeks,mixed,positive,7,69,2024-10-03
+D0372,career,Asked to lead a team,compromise,none,medium,months,negative,positive,9,83,2024-04-27
+D0373,career,Considering a career switch,decline,none,high,days,positive,positive,8,79,2026-04-05
+D0374,health,Starting a new fitness routine,act_now,none,low,months,positive,mixed,4,56,2025-10-17
+D0375,career,Considering a career switch,compromise,mixed,low,weeks,mixed,positive,6,71,2024-10-01
+D0376,travel,Planning a trip abroad,wait,positive,low,months,negative,negative,4,24,2025-06-24
+D0377,health,Starting a new fitness routine,compromise,positive,low,days,positive,positive,7,68,2024-04-04
+D0378,relationships,Having a serious conversation,decline,mixed,high,weeks,positive,positive,7,76,2025-03-20
+D0379,career,Job offer at a new company,act_now,mixed,medium,months,mixed,mixed,5,53,2026-01-26
+D0380,health,Starting a new fitness routine,wait,negative,low,weeks,positive,negative,4,37,2025-01-23
+D0381,purchase,Replacing my phone,wait,none,low,months,positive,mixed,8,50,2025-01-14
+D0382,finance,Taking a small loan,wait,mixed,low,months,mixed,positive,8,83,2026-07-10
+D0383,other,A family decision,wait,positive,medium,days,positive,positive,9,83,2024-03-13
+D0384,relationships,Moving in together,act_now,positive,medium,weeks,mixed,positive,7,62,2026-09-17
+D0385,productivity,Adopting a new daily schedule,act_now,mixed,low,weeks,positive,mixed,5,57,2024-04-14
+D0386,other,A family decision,wait,none,high,hours,mixed,positive,6,62,2024-02-06
+D0387,other,A family decision,act_now,positive,high,months,positive,positive,6,72,2024-08-07
+D0388,productivity,Taking on an extra project,decline,negative,medium,days,mixed,mixed,4,45,2026-01-11
+D0389,education,Applying for a master's degree,decline,positive,high,weeks,negative,positive,8,72,2025-11-19
+D0390,education,Changing my study plan,act_now,mixed,medium,weeks,positive,positive,5,64,2025-12-02
+D0391,finance,Investing a portion of savings,wait,mixed,high,days,positive,negative,3,39,2024-08-16
+D0392,health,Changing my diet,act_now,negative,medium,weeks,positive,positive,7,67,2025-10-06
+D0393,career,Considering a career switch,compromise,none,low,months,negative,positive,7,79,2024-06-25
+D0394,career,Job offer at a new company,wait,positive,high,hours,mixed,positive,8,81,2023-10-07
+D0395,education,Enrolling in an online course,act_now,negative,low,weeks,positive,positive,6,62,2024-08-02
+D0396,career,Job offer at a new company,act_now,none,low,weeks,mixed,positive,7,73,2026-02-08
+D0397,education,Enrolling in an online course,act_now,none,medium,months,positive,negative,4,33,2024-03-19
+D0398,finance,Investing a portion of savings,act_now,none,medium,days,negative,positive,5,65,2025-06-30
+D0399,health,Starting a new fitness routine,act_now,negative,low,days,negative,negative,5,44,2025-01-31
+D0400,relationships,Reconnecting with an old friend,wait,none,medium,hours,positive,negative,2,23,2025-06-18
+D0401,travel,Relocating to another city,compromise,mixed,medium,weeks,mixed,negative,6,42,2026-02-06
+D0402,career,Considering a career switch,wait,negative,high,days,positive,negative,2,16,2024-09-19
+D0403,health,Changing my diet,act_now,none,low,days,positive,positive,8,68,2025-04-06
+D0404,travel,Relocating to another city,compromise,none,high,days,positive,negative,2,29,2025-05-22
+D0405,career,Job offer at a new company,compromise,none,medium,months,positive,positive,8,79,2023-09-27
+D0406,career,Job offer at a new company,wait,mixed,medium,days,mixed,positive,7,64,2026-06-01
+D0407,relationships,Having a serious conversation,compromise,mixed,medium,hours,negative,positive,8,86,2025-06-04
+D0408,finance,Investing a portion of savings,act_now,mixed,medium,weeks,mixed,negative,4,37,2025-04-28
+D0409,productivity,Taking on an extra project,act_now,positive,medium,months,mixed,positive,10,91,2024-11-27
+D0410,purchase,Replacing my phone,act_now,mixed,high,days,negative,negative,4,33,2025-07-09
+D0411,other,A family decision,act_now,mixed,medium,months,positive,positive,7,70,2026-04-24
+D0412,health,Changing my diet,act_now,mixed,high,weeks,positive,negative,3,39,2026-07-30
+D0413,health,Starting a new fitness routine,act_now,none,medium,weeks,mixed,positive,9,84,2026-07-29
+D0414,productivity,Adopting a new daily schedule,act_now,negative,low,weeks,mixed,positive,7,67,2026-08-21
+D0415,career,Asked to lead a team,wait,mixed,medium,months,mixed,mixed,4,49,2026-05-08
+D0416,relationships,Reconnecting with an old friend,compromise,mixed,high,weeks,negative,positive,5,67,2023-10-30
+D0417,career,Asked to lead a team,act_now,none,medium,hours,positive,mixed,6,49,2023-10-05
+D0418,career,Considering a career switch,compromise,none,low,days,mixed,negative,2,10,2023-12-28
+D0419,finance,Investing a portion of savings,act_now,negative,low,weeks,mixed,mixed,7,56,2026-06-23
+D0420,purchase,Renting a bigger place,act_now,positive,medium,days,positive,positive,8,86,2025-01-13
+D0421,relationships,Having a serious conversation,act_now,mixed,low,months,positive,positive,9,89,2025-01-23
+D0422,education,Enrolling in an online course,compromise,mixed,medium,months,mixed,negative,2,18,2025-06-21
+D0423,productivity,Adopting a new daily schedule,act_now,none,high,days,negative,positive,7,70,2024-09-15
+D0424,career,Asked to lead a team,wait,positive,low,months,mixed,positive,7,79,2024-08-13
+D0425,education,Enrolling in an online course,compromise,positive,high,months,positive,positive,6,68,2024-02-08
+D0426,education,Enrolling in an online course,compromise,none,medium,hours,negative,positive,10,99,2023-12-08
+D0427,productivity,Taking on an extra project,act_now,positive,medium,hours,negative,positive,8,65,2025-07-03
+D0428,health,Starting a new fitness routine,wait,mixed,medium,weeks,positive,positive,10,97,2026-02-15
+D0429,relationships,Reconnecting with an old friend,act_now,positive,medium,weeks,mixed,negative,4,40,2025-05-28
+D0430,travel,Planning a trip abroad,compromise,negative,high,weeks,mixed,negative,2,26,2025-10-08
+D0431,purchase,Buying a new laptop,compromise,positive,low,months,positive,positive,10,90,2025-12-16
+D0432,career,Considering a career switch,wait,positive,low,days,negative,positive,6,67,2023-10-05
+D0433,productivity,Dropping a low-value task,wait,positive,low,hours,mixed,negative,4,36,2024-02-28
+D0434,finance,Taking a small loan,wait,positive,low,weeks,positive,positive,8,87,2024-05-24
+D0435,career,Job offer at a new company,wait,none,low,weeks,mixed,positive,7,65,2024-07-18
+D0436,productivity,Adopting a new daily schedule,act_now,mixed,low,days,positive,mixed,6,50,2025-03-11
+D0437,purchase,Renting a bigger place,wait,none,high,weeks,positive,positive,5,60,2025-05-30
+D0438,career,Asked to lead a team,decline,positive,medium,hours,negative,positive,8,86,2025-04-23
+D0439,productivity,Adopting a new daily schedule,act_now,negative,low,weeks,positive,positive,8,76,2025-11-12
+D0440,health,Starting a new fitness routine,act_now,none,medium,days,positive,negative,3,43,2026-04-22
+D0441,career,Job offer at a new company,act_now,positive,high,days,positive,negative,4,26,2025-10-22
+D0442,finance,Taking a small loan,act_now,negative,high,months,positive,mixed,6,56,2025-11-18
+D0443,career,Job offer at a new company,compromise,positive,medium,weeks,mixed,positive,6,64,2025-10-23
+D0444,travel,Accepting a work trip,wait,negative,low,months,mixed,positive,8,79,2023-09-27
+D0445,finance,Starting a side business,compromise,none,medium,hours,positive,negative,2,34,2024-10-18
+D0446,other,A personal decision,wait,mixed,high,days,positive,mixed,5,46,2024-06-10
+D0447,health,Booking a health check-up,wait,positive,high,hours,positive,positive,8,88,2026-01-29
+D0448,travel,Accepting a work trip,act_now,negative,medium,weeks,positive,positive,6,71,2025-07-31
+D0449,education,Changing my study plan,wait,mixed,high,days,positive,positive,8,74,2024-11-19
+D0450,finance,Investing a portion of savings,act_now,negative,high,months,mixed,mixed,4,51,2024-03-20
+D0451,relationships,Having a serious conversation,decline,negative,medium,weeks,negative,negative,3,20,2024-08-18
+D0452,education,Changing my study plan,act_now,none,high,weeks,positive,mixed,2,46,2026-05-10
+D0453,finance,Investing a portion of savings,act_now,mixed,low,weeks,mixed,positive,7,68,2025-07-18
+D0454,purchase,Replacing my phone,compromise,none,low,months,positive,positive,8,79,2024-11-01
+D0455,relationships,Moving in together,act_now,positive,low,days,positive,positive,7,78,2024-03-27
+D0456,career,Asked to lead a team,decline,positive,high,months,negative,positive,8,78,2026-07-08
+D0457,productivity,Adopting a new daily schedule,act_now,negative,medium,days,positive,positive,5,64,2023-12-28
+D0458,education,Enrolling in an online course,decline,positive,high,weeks,positive,positive,7,61,2024-07-31
+D0459,other,A family decision,compromise,negative,medium,weeks,positive,positive,7,73,2025-01-24
+D0460,health,Starting a new fitness routine,act_now,positive,medium,months,positive,positive,7,65,2025-08-21
+D0461,health,Starting a new fitness routine,act_now,none,medium,hours,positive,positive,9,85,2025-02-03
+D0462,career,Considering a career switch,wait,none,low,months,positive,mixed,6,55,2026-02-18
+D0463,travel,Accepting a work trip,act_now,none,medium,months,positive,negative,4,31,2025-11-13
+D0464,productivity,Adopting a new daily schedule,wait,none,medium,weeks,positive,negative,3,25,2023-10-05
+D0465,finance,Starting a side business,decline,none,low,days,mixed,positive,8,80,2024-05-31
+D0466,education,Applying for a master's degree,act_now,negative,high,weeks,negative,negative,1,10,2025-06-12
+D0467,purchase,Buying a new laptop,wait,negative,medium,months,positive,positive,4,61,2025-12-17
+D0468,finance,Taking a small loan,act_now,negative,low,days,negative,mixed,6,51,2025-06-01
+D0469,finance,Investing a portion of savings,act_now,mixed,medium,days,mixed,negative,4,40,2024-06-01
+D0470,education,Changing my study plan,compromise,none,medium,weeks,positive,positive,9,70,2024-01-31
+D0471,purchase,Buying a new laptop,decline,none,low,weeks,positive,positive,7,65,2025-01-30
+D0472,career,Considering a career switch,wait,mixed,high,hours,positive,positive,7,79,2024-04-16
+D0473,relationships,Moving in together,wait,positive,low,months,positive,positive,7,75,2026-04-02
+D0474,finance,Investing a portion of savings,decline,mixed,low,weeks,positive,negative,4,43,2023-11-21
+D0475,career,Considering a career switch,wait,none,low,weeks,mixed,positive,10,100,2025-07-17
+D0476,productivity,Adopting a new daily schedule,act_now,positive,low,weeks,negative,positive,8,77,2025-03-25
+D0477,finance,Starting a side business,act_now,negative,high,months,positive,negative,3,33,2025-04-26
+D0478,purchase,Replacing my phone,wait,mixed,medium,weeks,negative,positive,7,68,2024-10-03
+D0479,career,Asked to lead a team,act_now,mixed,medium,weeks,mixed,mixed,5,45,2023-10-18
+D0480,education,Enrolling in an online course,act_now,negative,high,months,mixed,negative,2,30,2026-03-17
+D0481,travel,Relocating to another city,act_now,none,low,days,positive,negative,4,37,2025-12-01
+D0482,finance,Investing a portion of savings,act_now,mixed,low,months,positive,mixed,5,53,2024-02-23
+D0483,productivity,Taking on an extra project,wait,mixed,low,days,mixed,negative,4,40,2024-02-27
+D0484,career,Asked to lead a team,act_now,none,medium,weeks,mixed,positive,8,61,2024-08-11
+D0485,relationships,Reconnecting with an old friend,act_now,mixed,medium,days,positive,positive,10,92,2024-08-19
+D0486,travel,Accepting a work trip,act_now,mixed,medium,months,positive,positive,8,72,2024-09-12
+D0487,health,Booking a health check-up,act_now,mixed,high,months,negative,negative,3,30,2026-04-23
+D0488,relationships,Having a serious conversation,compromise,none,medium,days,negative,positive,8,83,2024-02-14
+D0489,travel,Relocating to another city,decline,mixed,high,weeks,negative,positive,9,80,2024-10-02
+D0490,education,Applying for a master's degree,act_now,negative,medium,days,positive,negative,4,42,2025-04-14
+D0491,career,Asked to lead a team,act_now,positive,medium,days,negative,negative,3,35,2023-12-08
+D0492,travel,Planning a trip abroad,wait,positive,medium,weeks,negative,positive,4,62,2024-11-09
+D0493,finance,Investing a portion of savings,compromise,none,medium,weeks,positive,positive,7,77,2026-02-06
+D0494,career,Asked to lead a team,act_now,negative,low,weeks,negative,negative,3,37,2023-12-25
+D0495,education,Enrolling in an online course,wait,none,high,months,positive,negative,3,21,2025-12-31
+D0496,education,Applying for a master's degree,decline,none,high,hours,positive,positive,7,64,2024-10-01
+D0497,finance,Investing a portion of savings,act_now,negative,medium,weeks,positive,negative,4,34,2023-12-03
+D0498,health,Starting a new fitness routine,decline,mixed,medium,weeks,mixed,positive,7,81,2024-06-21
+D0499,finance,Taking a small loan,wait,negative,medium,weeks,mixed,negative,1,14,2025-10-07
+D0500,relationships,Moving in together,wait,negative,medium,hours,positive,positive,7,68,2025-10-22
+D0501,finance,Investing a portion of savings,compromise,none,high,months,positive,positive,8,72,2025-06-22
+D0502,other,A general life choice,act_now,positive,low,months,positive,positive,7,82,2025-02-12
+D0503,finance,Starting a side business,wait,mixed,medium,hours,positive,positive,7,79,2026-02-07
+D0504,health,Booking a health check-up,decline,negative,low,weeks,positive,mixed,5,56,2024-12-10
+D0505,finance,Starting a side business,wait,none,low,weeks,positive,positive,8,69,2024-03-01
+D0506,education,Changing my study plan,compromise,negative,high,days,positive,negative,2,39,2026-05-20
+D0507,relationships,Reconnecting with an old friend,decline,mixed,high,months,mixed,mixed,5,49,2024-07-04
+D0508,health,Starting a new fitness routine,act_now,none,medium,months,negative,positive,6,60,2026-06-26
+D0509,productivity,Taking on an extra project,decline,positive,low,weeks,mixed,negative,4,38,2024-05-06
+D0510,career,Considering a career switch,wait,none,high,months,positive,positive,7,83,2025-08-27
+D0511,health,Starting a new fitness routine,act_now,none,low,months,negative,positive,8,84,2025-12-16
+D0512,travel,Planning a trip abroad,compromise,negative,high,days,positive,negative,3,17,2026-06-06
+D0513,career,Asked to lead a team,act_now,mixed,medium,days,positive,negative,3,27,2024-11-24
+D0514,purchase,Buying a new laptop,act_now,positive,low,days,positive,positive,9,75,2024-07-04
+D0515,career,Job offer at a new company,act_now,none,medium,weeks,mixed,negative,4,42,2025-09-17
+D0516,productivity,Dropping a low-value task,act_now,mixed,high,weeks,mixed,negative,5,33,2026-05-18
+D0517,other,A personal decision,wait,negative,high,weeks,positive,positive,8,84,2025-08-16
+D0518,career,Asked to lead a team,act_now,positive,low,hours,negative,positive,8,61,2025-10-10
+D0519,health,Changing my diet,act_now,none,low,days,positive,positive,6,66,2025-06-13
+D0520,health,Booking a health check-up,act_now,none,low,days,positive,positive,8,73,2024-06-15
+D0521,relationships,Moving in together,act_now,none,medium,weeks,positive,positive,7,68,2023-10-11
+D0522,purchase,Renting a bigger place,wait,none,low,months,negative,mixed,5,45,2025-05-27
+D0523,productivity,Taking on an extra project,decline,negative,medium,days,negative,negative,4,34,2024-03-25
+D0524,career,Asked to lead a team,act_now,positive,high,weeks,negative,negative,3,42,2025-07-02
+D0525,purchase,Buying a new laptop,wait,positive,low,weeks,positive,negative,1,33,2023-11-22
+D0526,career,Considering a career switch,compromise,mixed,low,weeks,mixed,positive,10,86,2023-11-29
+D0527,relationships,Having a serious conversation,compromise,none,low,hours,positive,negative,1,19,2026-03-30
+D0528,relationships,Moving in together,compromise,none,low,days,positive,negative,4,41,2026-05-02
+D0529,career,Job offer at a new company,compromise,negative,low,hours,positive,negative,2,26,2025-02-19
+D0530,relationships,Reconnecting with an old friend,compromise,negative,low,months,positive,negative,2,28,2025-11-23
+D0531,purchase,Buying a new laptop,decline,positive,low,days,positive,positive,10,87,2025-08-09
+D0532,purchase,Renting a bigger place,decline,mixed,low,months,negative,negative,4,38,2025-11-06
+D0533,relationships,Reconnecting with an old friend,wait,negative,high,weeks,negative,positive,7,79,2025-06-15
+D0534,education,Changing my study plan,compromise,positive,low,days,mixed,negative,5,39,2025-03-04
+D0535,finance,Starting a side business,decline,none,high,days,positive,mixed,4,48,2026-07-27
+D0536,career,Asked to lead a team,act_now,negative,high,weeks,positive,negative,1,22,2024-11-19
+D0537,finance,Starting a side business,act_now,mixed,low,weeks,mixed,positive,7,77,2025-07-23
+D0538,education,Applying for a master's degree,act_now,none,high,days,mixed,negative,2,29,2025-11-02
+D0539,career,Asked to lead a team,compromise,none,medium,days,negative,positive,7,68,2026-05-03
+D0540,other,A personal decision,compromise,positive,medium,days,mixed,positive,7,77,2025-12-08
+D0541,travel,Planning a trip abroad,act_now,positive,low,days,negative,positive,10,83,2025-04-22
+D0542,travel,Relocating to another city,act_now,mixed,medium,hours,negative,positive,6,68,2024-11-20
+D0543,career,Considering a career switch,decline,none,low,weeks,positive,positive,9,83,2025-10-10
+D0544,travel,Planning a trip abroad,act_now,mixed,low,weeks,mixed,positive,8,64,2026-07-25
+D0545,finance,Starting a side business,wait,mixed,high,hours,negative,positive,6,84,2025-12-15
+D0546,productivity,Adopting a new daily schedule,act_now,negative,medium,days,negative,positive,6,67,2025-09-02
+D0547,other,A family decision,act_now,none,low,days,negative,positive,8,84,2025-02-23
+D0548,career,Considering a career switch,wait,positive,medium,hours,positive,positive,9,79,2026-02-14
+D0549,career,Considering a career switch,act_now,none,medium,weeks,positive,positive,6,69,2024-03-06
+D0550,finance,Starting a side business,act_now,positive,high,days,negative,negative,4,37,2025-08-09
+D0551,finance,Investing a portion of savings,decline,negative,low,months,mixed,mixed,6,52,2025-01-01
+D0552,other,A general life choice,decline,mixed,medium,days,mixed,positive,7,85,2025-11-18
+D0553,finance,Investing a portion of savings,act_now,mixed,low,months,negative,positive,6,60,2024-06-20
+D0554,purchase,Buying a new laptop,act_now,none,high,days,positive,positive,6,75,2026-09-21
+D0555,other,A general life choice,decline,positive,high,weeks,mixed,positive,7,74,2025-05-23
+D0556,relationships,Moving in together,act_now,negative,medium,weeks,mixed,mixed,5,49,2026-01-03
+D0557,productivity,Taking on an extra project,wait,mixed,medium,weeks,positive,positive,7,73,2025-06-12
+D0558,career,Job offer at a new company,wait,negative,medium,hours,mixed,mixed,4,50,2024-02-14
+D0559,health,Changing my diet,compromise,mixed,low,weeks,positive,positive,5,73,2024-02-07
+D0560,purchase,Renting a bigger place,decline,none,low,weeks,positive,negative,1,35,2025-06-24
+D0561,finance,Investing a portion of savings,decline,none,medium,days,mixed,mixed,5,47,2024-04-09
+D0562,relationships,Having a serious conversation,act_now,negative,low,months,positive,mixed,4,52,2023-11-09
+D0563,productivity,Dropping a low-value task,compromise,none,medium,weeks,positive,positive,7,73,2023-10-04
+D0564,finance,Starting a side business,compromise,mixed,high,weeks,positive,mixed,4,49,2024-11-12
+D0565,career,Job offer at a new company,wait,positive,medium,months,positive,positive,7,79,2024-03-28
+D0566,career,Job offer at a new company,act_now,positive,high,weeks,mixed,positive,6,70,2026-09-19
+D0567,career,Asked to lead a team,compromise,positive,low,months,positive,positive,6,63,2026-06-20
+D0568,productivity,Adopting a new daily schedule,compromise,none,medium,months,positive,positive,6,71,2025-07-13
+D0569,travel,Accepting a work trip,compromise,none,low,months,negative,positive,8,83,2024-05-30
+D0570,purchase,Renting a bigger place,act_now,positive,low,days,positive,negative,3,32,2025-04-08
+D0571,relationships,Having a serious conversation,decline,positive,medium,weeks,mixed,positive,8,77,2025-03-20
+D0572,finance,Taking a small loan,compromise,positive,high,hours,positive,positive,7,74,2025-10-05
+D0573,career,Asked to lead a team,wait,none,low,hours,positive,negative,1,0,2024-03-24
+D0574,education,Applying for a master's degree,decline,positive,high,days,mixed,positive,9,87,2024-09-24
+D0575,purchase,Renting a bigger place,act_now,positive,high,weeks,negative,negative,2,31,2023-10-28
+D0576,travel,Accepting a work trip,wait,positive,medium,days,positive,positive,7,72,2024-12-01
+D0577,purchase,Renting a bigger place,wait,negative,medium,months,mixed,negative,3,39,2024-06-02
+D0578,career,Job offer at a new company,decline,mixed,low,weeks,positive,mixed,5,46,2025-06-24
+D0579,education,Enrolling in an online course,wait,mixed,high,weeks,mixed,positive,10,89,2024-07-20
+D0580,health,Changing my diet,compromise,mixed,low,days,negative,positive,7,72,2024-01-29
+D0581,health,Starting a new fitness routine,act_now,negative,low,days,negative,mixed,5,47,2024-02-10
+D0582,career,Asked to lead a team,compromise,positive,high,hours,mixed,positive,8,71,2024-10-01
+D0583,relationships,Reconnecting with an old friend,act_now,mixed,low,weeks,negative,negative,5,34,2025-04-30
+D0584,career,Job offer at a new company,act_now,mixed,low,hours,mixed,positive,6,82,2025-06-01
+D0585,purchase,Buying a new laptop,act_now,negative,low,months,positive,negative,1,22,2025-04-19
+D0586,travel,Accepting a work trip,act_now,positive,medium,weeks,positive,positive,8,74,2026-04-23
+D0587,health,Changing my diet,act_now,positive,low,days,mixed,positive,9,92,2026-04-29
+D0588,finance,Starting a side business,act_now,positive,low,weeks,mixed,positive,9,77,2024-02-02
+D0589,productivity,Dropping a low-value task,act_now,negative,low,weeks,negative,positive,6,66,2024-07-19
+D0590,productivity,Taking on an extra project,act_now,positive,low,days,positive,positive,8,73,2025-01-12
+D0591,purchase,Renting a bigger place,compromise,mixed,medium,days,positive,negative,3,29,2025-02-13
+D0592,education,Enrolling in an online course,decline,negative,medium,weeks,positive,positive,8,78,2026-06-24
+D0593,purchase,Buying a new laptop,act_now,none,low,weeks,mixed,positive,10,85,2026-04-28
+D0594,relationships,Moving in together,compromise,negative,low,weeks,mixed,mixed,5,54,2025-08-25
+D0595,career,Asked to lead a team,decline,mixed,medium,months,positive,positive,10,85,2025-07-11
+D0596,other,A general life choice,wait,none,medium,months,mixed,mixed,5,52,2023-12-05
+D0597,productivity,Dropping a low-value task,compromise,negative,low,weeks,mixed,positive,5,69,2023-10-16
+D0598,travel,Accepting a work trip,compromise,positive,medium,hours,positive,positive,7,63,2025-05-26
+D0599,purchase,Buying a new laptop,compromise,positive,high,days,positive,mixed,7,52,2024-07-22
+D0600,productivity,Adopting a new daily schedule,act_now,negative,medium,days,negative,positive,9,87,2026-03-20
+D0601,finance,Investing a portion of savings,wait,negative,low,months,positive,negative,3,34,2025-01-06
+D0602,finance,Taking a small loan,wait,negative,medium,months,positive,positive,8,78,2024-10-03
+D0603,travel,Planning a trip abroad,compromise,mixed,medium,days,positive,positive,10,93,2024-05-09
+D0604,finance,Taking a small loan,act_now,positive,low,hours,mixed,positive,7,69,2024-10-10
+D0605,career,Job offer at a new company,compromise,none,low,weeks,positive,positive,7,61,2026-05-29
+D0606,education,Applying for a master's degree,decline,none,low,weeks,positive,mixed,3,51,2026-09-01
+D0607,career,Asked to lead a team,wait,none,high,months,positive,positive,8,61,2026-08-09
+D0608,relationships,Reconnecting with an old friend,act_now,negative,low,months,positive,negative,4,44,2025-02-19
+D0609,career,Job offer at a new company,act_now,negative,medium,days,positive,positive,9,90,2026-08-15
+D0610,finance,Taking a small loan,decline,positive,low,days,positive,positive,9,85,2026-04-01
+D0611,finance,Starting a side business,act_now,none,medium,weeks,negative,negative,5,41,2024-04-14
+D0612,travel,Accepting a work trip,decline,negative,low,weeks,positive,mixed,6,51,2025-10-29
+D0613,purchase,Renting a bigger place,wait,negative,medium,months,mixed,negative,2,19,2024-09-30
+D0614,education,Enrolling in an online course,wait,negative,medium,months,positive,positive,8,63,2026-09-01
+D0615,health,Booking a health check-up,compromise,mixed,low,weeks,mixed,positive,6,75,2026-08-04
+D0616,career,Asked to lead a team,act_now,negative,low,weeks,negative,negative,2,36,2026-07-31
+D0617,health,Starting a new fitness routine,wait,none,low,weeks,negative,positive,8,87,2025-03-05
+D0618,purchase,Replacing my phone,wait,mixed,low,days,positive,mixed,4,51,2025-07-09
+D0619,finance,Starting a side business,wait,none,medium,hours,positive,negative,5,30,2025-05-09
+D0620,health,Changing my diet,compromise,none,medium,hours,mixed,positive,10,83,2023-11-03
+D0621,career,Considering a career switch,act_now,positive,low,hours,positive,negative,4,31,2026-03-18
+D0622,finance,Starting a side business,wait,negative,high,months,positive,positive,9,73,2026-06-13
+D0623,career,Asked to lead a team,act_now,positive,medium,months,positive,positive,6,64,2024-04-17
+D0624,finance,Investing a portion of savings,wait,none,low,weeks,mixed,positive,9,80,2024-08-24
+D0625,education,Changing my study plan,act_now,positive,medium,weeks,mixed,negative,1,14,2024-01-13
+D0626,productivity,Taking on an extra project,compromise,none,high,months,positive,positive,5,69,2023-12-05
+D0627,health,Booking a health check-up,act_now,positive,low,weeks,positive,positive,8,96,2025-10-06
+D0628,other,A family decision,act_now,mixed,medium,weeks,positive,mixed,6,49,2026-01-07
+D0629,productivity,Taking on an extra project,act_now,mixed,low,months,positive,positive,7,78,2025-05-04
+D0630,purchase,Replacing my phone,act_now,negative,low,days,negative,negative,3,23,2025-09-25
+D0631,finance,Taking a small loan,decline,positive,medium,weeks,mixed,positive,7,73,2025-07-23
+D0632,finance,Investing a portion of savings,wait,negative,high,weeks,positive,negative,3,31,2025-06-09
+D0633,productivity,Dropping a low-value task,act_now,negative,low,weeks,negative,negative,3,40,2025-10-08
+D0634,finance,Starting a side business,act_now,none,high,days,mixed,negative,5,32,2025-06-09
+D0635,career,Job offer at a new company,compromise,none,low,months,positive,positive,7,74,2026-02-21
+D0636,relationships,Moving in together,decline,positive,low,weeks,positive,negative,5,35,2026-06-27
+D0637,finance,Starting a side business,decline,positive,low,weeks,positive,positive,8,78,2025-04-09
+D0638,health,Booking a health check-up,act_now,negative,low,months,mixed,negative,2,29,2025-06-30
+D0639,career,Considering a career switch,act_now,none,medium,weeks,positive,positive,8,73,2024-12-15
+D0640,relationships,Reconnecting with an old friend,wait,mixed,low,months,negative,negative,2,13,2024-05-01
+D0641,finance,Investing a portion of savings,act_now,mixed,medium,weeks,positive,negative,2,30,2025-06-01
+D0642,purchase,Buying a new laptop,decline,negative,medium,weeks,mixed,negative,5,34,2024-08-17
+D0643,relationships,Moving in together,compromise,none,medium,months,negative,negative,5,37,2024-09-09
+D0644,career,Considering a career switch,act_now,positive,medium,days,negative,positive,7,75,2024-05-09
+D0645,other,A personal decision,compromise,none,medium,hours,negative,negative,4,40,2024-12-29
+D0646,travel,Accepting a work trip,act_now,negative,medium,days,mixed,mixed,3,46,2025-02-19
+D0647,travel,Accepting a work trip,act_now,positive,low,weeks,positive,positive,8,79,2026-02-12
+D0648,career,Job offer at a new company,wait,positive,medium,days,positive,positive,9,84,2024-01-10
+D0649,education,Enrolling in an online course,compromise,negative,low,weeks,mixed,positive,9,72,2024-06-06
+D0650,health,Changing my diet,act_now,none,medium,weeks,negative,negative,3,43,2024-08-01
+D0651,finance,Investing a portion of savings,compromise,none,medium,weeks,negative,positive,10,96,2023-12-17
+D0652,career,Considering a career switch,wait,positive,low,months,positive,positive,8,73,2025-02-23
+D0653,health,Changing my diet,decline,mixed,medium,weeks,mixed,mixed,5,52,2025-12-06
+D0654,health,Starting a new fitness routine,decline,negative,high,months,mixed,negative,1,21,2026-01-06
+D0655,health,Booking a health check-up,act_now,none,high,months,positive,negative,6,41,2025-10-24
+D0656,other,A personal decision,act_now,none,low,hours,positive,positive,9,73,2025-08-06
+D0657,purchase,Buying a new laptop,act_now,positive,low,hours,positive,positive,9,88,2026-03-28
+D0658,other,A family decision,act_now,negative,high,days,positive,negative,4,37,2026-09-10
+D0659,career,Asked to lead a team,compromise,mixed,medium,days,negative,positive,8,73,2024-10-15
+D0660,travel,Relocating to another city,act_now,none,medium,months,positive,positive,7,77,2024-06-27
+D0661,relationships,Moving in together,act_now,none,low,months,mixed,positive,9,72,2025-03-25
+D0662,health,Booking a health check-up,act_now,mixed,high,months,positive,negative,3,27,2024-04-05
+D0663,finance,Taking a small loan,decline,positive,medium,days,positive,positive,9,78,2025-04-17
+D0664,purchase,Renting a bigger place,act_now,negative,high,hours,mixed,mixed,5,47,2026-08-13
+D0665,finance,Starting a side business,act_now,positive,high,weeks,negative,mixed,6,55,2024-02-02
+D0666,health,Starting a new fitness routine,act_now,negative,low,weeks,negative,mixed,7,56,2026-07-22
+D0667,health,Changing my diet,wait,none,medium,weeks,positive,positive,9,82,2026-06-30
+D0668,relationships,Having a serious conversation,compromise,positive,high,weeks,positive,positive,7,73,2026-07-10
+D0669,education,Changing my study plan,wait,none,low,months,negative,positive,8,80,2026-02-07
+D0670,career,Job offer at a new company,compromise,none,medium,months,positive,positive,8,90,2024-06-12
+D0671,career,Considering a career switch,act_now,mixed,medium,weeks,mixed,negative,5,44,2024-12-08
+D0672,health,Booking a health check-up,act_now,positive,high,weeks,negative,positive,10,83,2023-11-10
+D0673,finance,Starting a side business,decline,positive,medium,months,positive,positive,8,82,2024-01-01
+D0674,health,Starting a new fitness routine,wait,negative,medium,days,mixed,negative,4,41,2025-11-08
+D0675,purchase,Replacing my phone,wait,negative,medium,months,mixed,positive,6,60,2026-04-22
+D0676,relationships,Reconnecting with an old friend,decline,none,medium,days,positive,negative,2,36,2026-09-02
+D0677,travel,Relocating to another city,wait,positive,medium,months,positive,positive,6,70,2024-07-21
+D0678,finance,Taking a small loan,decline,none,low,months,positive,negative,2,31,2024-06-06
+D0679,relationships,Moving in together,act_now,positive,medium,weeks,negative,mixed,5,48,2025-12-04
+D0680,career,Asked to lead a team,act_now,mixed,high,months,positive,negative,1,26,2025-12-20
+D0681,career,Job offer at a new company,act_now,negative,low,months,positive,negative,1,22,2025-09-29
+D0682,education,Applying for a master's degree,act_now,negative,low,hours,positive,positive,7,80,2025-05-06
+D0683,education,Enrolling in an online course,wait,none,medium,weeks,positive,positive,8,93,2026-04-23
+D0684,health,Booking a health check-up,act_now,negative,medium,hours,negative,positive,7,71,2024-07-20
+D0685,other,A personal decision,wait,none,medium,weeks,positive,positive,8,87,2026-01-25
+D0686,career,Asked to lead a team,compromise,none,medium,months,positive,positive,7,74,2026-07-09
+D0687,travel,Accepting a work trip,decline,positive,high,days,mixed,positive,8,90,2026-07-09
+D0688,productivity,Taking on an extra project,act_now,mixed,low,weeks,positive,negative,4,37,2025-01-31
+D0689,career,Asked to lead a team,act_now,positive,low,months,mixed,positive,10,91,2024-09-05
+D0690,purchase,Replacing my phone,compromise,mixed,low,days,mixed,negative,3,23,2023-11-08
+D0691,travel,Accepting a work trip,decline,positive,medium,months,mixed,positive,10,91,2025-06-13
+D0692,health,Starting a new fitness routine,act_now,mixed,medium,months,positive,positive,8,69,2024-09-25
+D0693,relationships,Moving in together,wait,none,medium,weeks,negative,negative,4,21,2025-11-07
+D0694,career,Job offer at a new company,compromise,none,high,weeks,mixed,mixed,5,52,2023-10-01
+D0695,relationships,Reconnecting with an old friend,wait,none,low,hours,positive,negative,4,43,2024-05-31
+D0696,travel,Accepting a work trip,decline,negative,high,weeks,positive,negative,2,36,2026-09-22
+D0697,health,Starting a new fitness routine,compromise,none,low,weeks,mixed,positive,9,89,2024-06-28
+D0698,other,A personal decision,wait,none,low,weeks,positive,negative,1,2,2024-12-13
+D0699,health,Starting a new fitness routine,wait,none,medium,months,positive,positive,8,65,2025-02-20
+D0700,relationships,Reconnecting with an old friend,act_now,positive,high,months,negative,negative,4,34,2023-10-16
+D0701,education,Applying for a master's degree,act_now,mixed,low,months,positive,positive,6,67,2026-07-06
+D0702,productivity,Dropping a low-value task,act_now,mixed,medium,days,positive,positive,6,74,2026-05-11
+D0703,purchase,Buying a new laptop,compromise,negative,medium,weeks,positive,positive,6,76,2024-04-16
+D0704,other,A general life choice,act_now,positive,high,months,mixed,negative,3,28,2026-03-25
+D0705,finance,Taking a small loan,act_now,negative,medium,weeks,positive,negative,3,38,2024-11-18
+D0706,education,Applying for a master's degree,act_now,none,low,days,positive,positive,6,62,2023-11-16
+D0707,relationships,Moving in together,act_now,none,high,weeks,negative,negative,3,32,2024-12-23
+D0708,purchase,Buying a new laptop,act_now,mixed,medium,hours,negative,positive,7,67,2024-02-08
+D0709,health,Starting a new fitness routine,compromise,negative,medium,weeks,mixed,positive,8,72,2025-01-13
+D0710,finance,Taking a small loan,decline,none,medium,weeks,mixed,positive,5,60,2026-04-17
+D0711,purchase,Renting a bigger place,decline,mixed,medium,weeks,mixed,mixed,5,49,2025-08-08
+D0712,other,A general life choice,act_now,none,medium,weeks,positive,negative,3,27,2025-09-18
+D0713,finance,Investing a portion of savings,wait,none,medium,weeks,positive,negative,3,37,2025-08-27
+D0714,other,A personal decision,compromise,negative,low,weeks,positive,negative,1,21,2023-10-02
+D0715,education,Enrolling in an online course,act_now,mixed,medium,days,negative,positive,7,61,2024-11-21
+D0716,productivity,Taking on an extra project,decline,mixed,medium,days,positive,positive,10,90,2024-11-25
+D0717,career,Considering a career switch,act_now,mixed,medium,months,positive,negative,3,26,2024-01-02
+D0718,purchase,Buying a new laptop,act_now,none,low,days,positive,positive,8,77,2024-07-14
+D0719,finance,Taking a small loan,act_now,positive,low,days,mixed,mixed,8,57,2023-11-15
+D0720,relationships,Reconnecting with an old friend,wait,positive,medium,days,negative,mixed,6,47,2026-04-23
+D0721,finance,Taking a small loan,compromise,mixed,medium,weeks,positive,negative,2,12,2025-10-15
+D0722,productivity,Adopting a new daily schedule,decline,none,high,months,positive,positive,7,75,2023-10-30
+D0723,relationships,Moving in together,compromise,negative,high,months,mixed,positive,7,88,2026-06-28
+D0724,purchase,Renting a bigger place,decline,positive,medium,hours,negative,positive,8,74,2025-09-09
+D0725,career,Considering a career switch,wait,none,medium,days,negative,negative,4,40,2024-10-23
+D0726,career,Job offer at a new company,compromise,mixed,medium,weeks,positive,mixed,4,48,2026-08-24
+D0727,travel,Accepting a work trip,act_now,negative,medium,days,positive,positive,7,74,2024-03-27
+D0728,other,A general life choice,wait,negative,low,hours,positive,negative,5,36,2026-03-27
+D0729,education,Applying for a master's degree,act_now,negative,low,months,negative,positive,9,84,2026-02-20
+D0730,health,Changing my diet,act_now,positive,medium,days,positive,mixed,6,52,2026-09-06
+D0731,health,Booking a health check-up,act_now,none,low,days,positive,positive,6,60,2024-04-04
+D0732,career,Job offer at a new company,act_now,mixed,medium,months,positive,mixed,4,49,2023-11-14
+D0733,travel,Planning a trip abroad,compromise,positive,low,months,positive,positive,8,88,2026-07-19
+D0734,other,A family decision,wait,negative,medium,days,mixed,negative,4,31,2025-06-25
+D0735,career,Asked to lead a team,act_now,none,low,hours,negative,positive,5,61,2025-05-15
+D0736,finance,Starting a side business,compromise,positive,medium,days,positive,positive,7,74,2026-09-03
+D0737,relationships,Having a serious conversation,wait,none,high,weeks,negative,positive,7,69,2025-05-26
+D0738,productivity,Dropping a low-value task,wait,none,low,days,positive,negative,1,11,2024-08-30
+D0739,career,Job offer at a new company,wait,positive,high,weeks,positive,positive,8,74,2023-10-01
+D0740,education,Applying for a master's degree,act_now,positive,high,months,mixed,negative,4,36,2024-06-19
+D0741,education,Changing my study plan,wait,negative,low,days,positive,mixed,4,50,2025-03-23
+D0742,travel,Planning a trip abroad,act_now,mixed,medium,weeks,positive,positive,8,71,2024-09-09
+D0743,finance,Taking a small loan,compromise,mixed,low,months,positive,positive,7,67,2026-08-13
+D0744,finance,Investing a portion of savings,wait,positive,medium,months,mixed,positive,7,77,2025-07-18
+D0745,career,Job offer at a new company,act_now,none,high,months,mixed,negative,3,32,2023-12-15
+D0746,health,Booking a health check-up,decline,none,medium,weeks,mixed,positive,6,66,2025-08-25
+D0747,travel,Accepting a work trip,decline,mixed,medium,weeks,positive,positive,8,65,2026-08-04
+D0748,purchase,Renting a bigger place,act_now,none,low,days,positive,positive,6,71,2025-01-07
+D0749,travel,Relocating to another city,wait,none,low,hours,negative,mixed,5,48,2024-11-22
+D0750,travel,Relocating to another city,act_now,none,high,days,positive,negative,3,24,2025-04-27
+D0751,career,Job offer at a new company,act_now,none,high,weeks,negative,mixed,7,59,2026-08-30
+D0752,education,Enrolling in an online course,compromise,positive,high,days,negative,positive,6,62,2023-12-04
+D0753,relationships,Reconnecting with an old friend,compromise,positive,medium,months,negative,positive,6,61,2025-02-15
+D0754,career,Job offer at a new company,act_now,negative,low,months,positive,positive,8,85,2026-08-28
+D0755,other,A personal decision,decline,negative,medium,months,negative,negative,1,34,2024-09-28
+D0756,purchase,Renting a bigger place,wait,mixed,high,months,negative,positive,7,68,2024-09-01
+D0757,career,Job offer at a new company,act_now,positive,high,weeks,negative,negative,4,37,2025-09-18
+D0758,purchase,Renting a bigger place,decline,positive,low,weeks,positive,positive,7,77,2026-03-26
+D0759,productivity,Taking on an extra project,act_now,positive,medium,weeks,positive,mixed,7,58,2024-08-22
+D0760,productivity,Adopting a new daily schedule,wait,negative,low,months,positive,negative,3,34,2025-04-30
+D0761,education,Changing my study plan,act_now,positive,high,days,mixed,positive,8,71,2026-02-16
+D0762,travel,Accepting a work trip,act_now,mixed,medium,months,positive,negative,3,28,2024-05-03
+D0763,education,Enrolling in an online course,decline,mixed,high,days,positive,mixed,6,48,2025-12-04
+D0764,other,A family decision,compromise,positive,high,weeks,negative,positive,8,73,2024-07-03
+D0765,purchase,Buying a new laptop,act_now,negative,low,weeks,mixed,negative,1,32,2025-10-21
+D0766,travel,Planning a trip abroad,act_now,mixed,low,weeks,positive,positive,8,74,2026-02-24
+D0767,health,Changing my diet,act_now,mixed,medium,months,positive,positive,9,90,2026-08-28
+D0768,travel,Planning a trip abroad,decline,negative,low,months,positive,positive,10,80,2024-01-12
+D0769,finance,Starting a side business,decline,none,medium,weeks,positive,positive,9,91,2025-01-28
+D0770,health,Changing my diet,act_now,negative,medium,weeks,mixed,negative,4,44,2026-09-21
+D0771,purchase,Buying a new laptop,act_now,positive,high,days,negative,negative,2,23,2024-12-25
+D0772,career,Considering a career switch,act_now,mixed,medium,months,positive,positive,7,74,2024-03-23
+D0773,education,Enrolling in an online course,compromise,mixed,low,hours,positive,positive,8,71,2025-05-22
+D0774,productivity,Dropping a low-value task,act_now,positive,high,days,negative,negative,2,25,2025-05-16
+D0775,travel,Planning a trip abroad,wait,none,medium,weeks,mixed,positive,8,83,2026-07-26
+D0776,productivity,Dropping a low-value task,act_now,none,low,months,mixed,positive,8,69,2025-03-04
+D0777,education,Applying for a master's degree,compromise,none,low,weeks,positive,positive,8,76,2026-09-15
+D0778,purchase,Renting a bigger place,compromise,negative,medium,weeks,positive,negative,6,41,2023-12-21
+D0779,career,Job offer at a new company,compromise,none,high,weeks,positive,positive,7,88,2025-12-20
+D0780,purchase,Replacing my phone,decline,negative,high,days,positive,positive,6,70,2026-05-18
+D0781,finance,Investing a portion of savings,act_now,positive,medium,months,mixed,positive,8,86,2025-10-16
+D0782,finance,Taking a small loan,compromise,positive,medium,hours,positive,positive,6,63,2024-03-17
+D0783,purchase,Renting a bigger place,act_now,none,low,hours,mixed,negative,2,22,2026-08-15
+D0784,productivity,Dropping a low-value task,act_now,none,low,weeks,positive,positive,8,85,2025-12-08
+D0785,purchase,Renting a bigger place,wait,positive,low,days,positive,positive,9,71,2024-06-08
+D0786,finance,Taking a small loan,act_now,mixed,high,weeks,negative,negative,4,26,2026-09-05
+D0787,education,Changing my study plan,compromise,none,medium,months,positive,positive,6,63,2024-04-14
+D0788,education,Enrolling in an online course,decline,negative,high,weeks,positive,negative,4,29,2026-01-28
+D0789,purchase,Buying a new laptop,act_now,mixed,low,days,positive,negative,5,39,2026-08-09
+D0790,relationships,Having a serious conversation,act_now,negative,medium,weeks,positive,negative,4,41,2024-02-03
+D0791,productivity,Adopting a new daily schedule,decline,mixed,high,hours,positive,mixed,6,48,2025-06-24
+D0792,productivity,Adopting a new daily schedule,act_now,none,medium,weeks,negative,positive,9,86,2024-04-17
+D0793,career,Considering a career switch,decline,none,medium,hours,negative,negative,3,38,2025-06-27
+D0794,health,Changing my diet,wait,positive,high,months,negative,positive,8,71,2024-03-13
+D0795,productivity,Adopting a new daily schedule,wait,positive,low,months,positive,positive,8,85,2026-02-19
+D0796,other,A general life choice,wait,positive,low,hours,negative,negative,2,29,2025-07-10
+D0797,relationships,Having a serious conversation,compromise,positive,medium,days,mixed,positive,9,85,2025-11-04
+D0798,relationships,Reconnecting with an old friend,act_now,none,high,weeks,mixed,positive,7,69,2025-09-26
+D0799,relationships,Having a serious conversation,wait,negative,medium,days,positive,mixed,5,52,2023-12-01
+D0800,travel,Relocating to another city,act_now,negative,high,weeks,negative,mixed,8,58,2025-11-04
+D0801,purchase,Renting a bigger place,wait,positive,high,weeks,positive,negative,2,28,2024-01-24
+D0802,productivity,Adopting a new daily schedule,decline,none,medium,months,positive,negative,4,39,2024-03-04
+D0803,other,A general life choice,wait,mixed,low,weeks,positive,mixed,5,53,2025-03-07
+D0804,other,A family decision,act_now,mixed,low,weeks,positive,positive,7,71,2025-01-03
+D0805,career,Asked to lead a team,act_now,none,low,months,positive,positive,9,84,2025-09-08
+D0806,productivity,Taking on an extra project,act_now,none,medium,weeks,negative,negative,4,38,2026-02-26
+D0807,relationships,Moving in together,act_now,none,high,weeks,positive,mixed,5,56,2026-01-08
+D0808,purchase,Replacing my phone,act_now,mixed,medium,days,mixed,negative,3,20,2026-02-04
+D0809,health,Booking a health check-up,decline,positive,high,months,positive,positive,9,81,2025-06-04
+D0810,education,Changing my study plan,act_now,none,low,days,positive,positive,9,92,2026-04-27
+D0811,career,Job offer at a new company,wait,mixed,medium,months,positive,positive,8,60,2024-06-17
+D0812,education,Enrolling in an online course,wait,mixed,low,days,negative,mixed,4,47,2024-01-14
+D0813,education,Applying for a master's degree,compromise,mixed,medium,weeks,mixed,positive,8,78,2024-06-28
+D0814,education,Changing my study plan,act_now,positive,medium,hours,mixed,positive,10,69,2025-06-27
+D0815,purchase,Buying a new laptop,compromise,none,high,months,positive,positive,10,88,2025-10-03
+D0816,other,A family decision,act_now,mixed,low,days,negative,mixed,6,59,2024-08-10
+D0817,other,A personal decision,decline,mixed,low,hours,negative,negative,3,22,2023-11-22
+D0818,travel,Planning a trip abroad,act_now,positive,low,days,mixed,positive,8,79,2026-04-14
+D0819,finance,Investing a portion of savings,compromise,mixed,high,hours,positive,negative,5,43,2024-01-25
+D0820,other,A family decision,compromise,negative,high,days,positive,positive,9,84,2025-03-07
+D0821,career,Considering a career switch,decline,positive,medium,days,positive,positive,8,66,2024-06-26
+D0822,productivity,Dropping a low-value task,decline,positive,high,days,positive,positive,7,83,2025-10-09
+D0823,purchase,Replacing my phone,act_now,negative,medium,weeks,mixed,negative,4,29,2025-06-04
+D0824,health,Booking a health check-up,act_now,none,medium,months,positive,positive,10,100,2025-05-19
+D0825,education,Changing my study plan,decline,none,low,days,positive,negative,3,39,2024-06-15
+D0826,career,Job offer at a new company,decline,mixed,medium,months,positive,mixed,5,51,2023-10-10
+D0827,relationships,Reconnecting with an old friend,compromise,positive,low,weeks,negative,positive,8,85,2025-04-11
+D0828,finance,Investing a portion of savings,decline,mixed,high,weeks,mixed,positive,6,73,2026-03-21
+D0829,purchase,Renting a bigger place,compromise,none,medium,weeks,positive,positive,9,86,2025-01-29
+D0830,health,Changing my diet,decline,none,low,hours,positive,negative,3,39,2025-03-01
+D0831,travel,Relocating to another city,decline,none,high,days,positive,positive,9,70,2025-08-05
+D0832,other,A family decision,act_now,positive,low,hours,positive,positive,6,69,2025-12-21
+D0833,relationships,Having a serious conversation,decline,positive,medium,weeks,positive,positive,6,78,2024-12-13
+D0834,education,Enrolling in an online course,compromise,mixed,medium,weeks,mixed,positive,10,82,2025-06-24
+D0835,relationships,Reconnecting with an old friend,wait,positive,high,months,negative,positive,6,79,2024-09-03
+D0836,travel,Planning a trip abroad,act_now,positive,high,weeks,positive,negative,4,42,2025-11-01
+D0837,travel,Relocating to another city,compromise,positive,low,hours,negative,positive,6,63,2026-04-17
+D0838,relationships,Reconnecting with an old friend,compromise,none,high,weeks,mixed,positive,8,80,2024-03-03
+D0839,travel,Accepting a work trip,wait,positive,high,days,positive,positive,5,64,2023-12-21
+D0840,career,Job offer at a new company,wait,mixed,low,months,negative,mixed,6,59,2025-03-23
+D0841,career,Asked to lead a team,compromise,positive,medium,weeks,negative,positive,8,77,2026-01-23
+D0842,health,Starting a new fitness routine,wait,mixed,medium,days,positive,positive,8,72,2026-04-09
+D0843,finance,Starting a side business,compromise,negative,low,months,mixed,positive,9,83,2025-08-09
+D0844,travel,Relocating to another city,compromise,none,high,weeks,negative,positive,7,69,2024-01-17
+D0845,health,Booking a health check-up,act_now,positive,medium,hours,mixed,positive,7,70,2025-07-12
+D0846,finance,Taking a small loan,wait,none,high,months,negative,positive,7,70,2025-01-07
+D0847,relationships,Having a serious conversation,compromise,none,medium,hours,positive,positive,7,68,2025-08-26
+D0848,travel,Accepting a work trip,compromise,mixed,medium,days,negative,positive,7,78,2026-09-05
+D0849,finance,Taking a small loan,act_now,positive,low,days,negative,positive,6,75,2024-03-14
+D0850,health,Booking a health check-up,decline,mixed,medium,weeks,mixed,mixed,4,45,2026-01-26
+D0851,career,Asked to lead a team,decline,positive,low,months,positive,mixed,7,54,2025-01-29
+D0852,education,Changing my study plan,compromise,negative,medium,months,positive,negative,3,34,2025-05-30
+D0853,health,Booking a health check-up,act_now,none,medium,days,positive,mixed,5,58,2025-02-22
+D0854,education,Enrolling in an online course,act_now,negative,medium,weeks,positive,negative,6,44,2026-01-26
+D0855,travel,Relocating to another city,decline,mixed,medium,weeks,negative,negative,4,33,2025-05-08
+D0856,education,Enrolling in an online course,act_now,positive,low,days,positive,positive,8,83,2024-11-15
+D0857,relationships,Moving in together,wait,mixed,low,weeks,mixed,negative,5,38,2024-09-03
+D0858,career,Job offer at a new company,act_now,positive,medium,months,mixed,positive,8,81,2025-05-08
+D0859,health,Starting a new fitness routine,act_now,negative,medium,hours,positive,mixed,6,53,2026-02-13
+D0860,education,Applying for a master's degree,decline,none,medium,weeks,positive,positive,10,83,2026-02-01
+D0861,finance,Investing a portion of savings,act_now,negative,medium,weeks,negative,mixed,5,46,2024-03-05
+D0862,purchase,Buying a new laptop,wait,mixed,medium,months,positive,positive,7,82,2025-08-18
+D0863,purchase,Buying a new laptop,decline,mixed,high,weeks,negative,mixed,6,59,2025-05-22
+D0864,career,Considering a career switch,compromise,none,low,months,positive,positive,9,88,2026-06-02
+D0865,health,Changing my diet,act_now,negative,low,hours,positive,positive,8,73,2025-09-17
+D0866,education,Enrolling in an online course,act_now,none,low,days,mixed,positive,7,76,2025-07-30
+D0867,career,Asked to lead a team,act_now,none,medium,hours,mixed,negative,1,17,2024-09-16
+D0868,productivity,Dropping a low-value task,compromise,negative,low,days,positive,negative,4,37,2023-11-09
+D0869,finance,Taking a small loan,wait,negative,high,weeks,mixed,positive,7,70,2024-03-01
+D0870,education,Enrolling in an online course,decline,positive,high,weeks,negative,positive,6,68,2025-10-03
+D0871,finance,Taking a small loan,act_now,none,medium,days,mixed,negative,2,28,2024-03-22
+D0872,education,Changing my study plan,compromise,positive,medium,hours,mixed,positive,7,67,2026-06-28
+D0873,career,Considering a career switch,wait,positive,high,days,positive,positive,6,80,2025-04-20
+D0874,finance,Taking a small loan,decline,mixed,low,months,mixed,mixed,6,57,2025-01-01
+D0875,relationships,Reconnecting with an old friend,wait,mixed,low,weeks,positive,positive,7,74,2025-07-21
+D0876,relationships,Reconnecting with an old friend,act_now,positive,high,months,negative,negative,5,27,2024-12-16
+D0877,finance,Starting a side business,compromise,positive,high,months,mixed,positive,7,72,2023-10-05
+D0878,productivity,Taking on an extra project,decline,positive,low,months,mixed,positive,8,83,2024-03-10
+D0879,career,Considering a career switch,decline,positive,low,weeks,mixed,positive,8,78,2025-09-30
+D0880,relationships,Moving in together,compromise,mixed,high,months,mixed,positive,7,72,2025-07-25
+D0881,finance,Investing a portion of savings,compromise,positive,low,days,mixed,positive,7,77,2026-08-30
+D0882,health,Starting a new fitness routine,act_now,negative,medium,weeks,positive,negative,1,8,2024-04-20
+D0883,productivity,Adopting a new daily schedule,decline,none,medium,weeks,positive,negative,4,40,2024-05-23
+D0884,career,Job offer at a new company,wait,positive,low,months,positive,positive,10,75,2025-03-01
+D0885,finance,Investing a portion of savings,act_now,negative,low,days,negative,negative,4,36,2024-08-04
+D0886,education,Enrolling in an online course,compromise,negative,low,days,positive,mixed,5,57,2023-10-29
+D0887,health,Changing my diet,act_now,positive,medium,weeks,positive,positive,7,76,2024-11-17
+D0888,purchase,Renting a bigger place,compromise,negative,medium,weeks,negative,positive,8,72,2025-04-30
+D0889,finance,Starting a side business,act_now,negative,high,days,mixed,mixed,4,45,2025-03-31
+D0890,career,Asked to lead a team,decline,negative,low,days,positive,negative,1,22,2024-07-26
+D0891,purchase,Buying a new laptop,decline,none,medium,days,positive,positive,9,95,2026-04-12
+D0892,health,Starting a new fitness routine,act_now,positive,medium,months,positive,positive,8,86,2024-06-14
+D0893,career,Considering a career switch,compromise,positive,medium,weeks,mixed,positive,6,73,2023-10-23
+D0894,finance,Starting a side business,compromise,none,medium,months,positive,positive,5,77,2024-04-08
+D0895,travel,Accepting a work trip,wait,positive,medium,months,positive,positive,9,86,2024-05-10
+D0896,career,Considering a career switch,wait,mixed,low,weeks,negative,negative,4,39,2026-04-11
+D0897,purchase,Replacing my phone,wait,positive,high,days,mixed,mixed,5,47,2026-02-18
+D0898,purchase,Buying a new laptop,compromise,none,low,days,positive,negative,4,38,2026-06-16
+D0899,productivity,Adopting a new daily schedule,wait,negative,low,hours,positive,negative,4,26,2026-09-21
+D0900,finance,Starting a side business,wait,positive,medium,hours,negative,positive,8,70,2025-08-20
+D0901,relationships,Moving in together,compromise,none,high,months,positive,negative,2,26,2025-08-17
+D0902,education,Enrolling in an online course,wait,mixed,low,days,mixed,positive,6,72,2025-01-13
+D0903,travel,Planning a trip abroad,decline,none,low,weeks,positive,negative,2,17,2026-09-10
+D0904,finance,Taking a small loan,compromise,mixed,medium,weeks,positive,positive,7,77,2024-04-07
+D0905,health,Booking a health check-up,wait,mixed,high,days,mixed,positive,7,83,2023-12-01
+D0906,finance,Starting a side business,wait,positive,medium,months,positive,positive,5,60,2025-07-10
+D0907,career,Considering a career switch,wait,mixed,high,weeks,negative,negative,1,21,2025-04-26
+D0908,finance,Starting a side business,decline,none,medium,hours,positive,mixed,6,49,2025-07-02
+D0909,health,Booking a health check-up,decline,negative,low,weeks,positive,negative,1,23,2023-10-12
+D0910,finance,Starting a side business,wait,negative,low,days,positive,negative,5,41,2026-08-03
+D0911,health,Changing my diet,act_now,none,medium,days,positive,mixed,4,54,2026-02-04
+D0912,relationships,Reconnecting with an old friend,act_now,none,low,days,negative,negative,4,39,2023-11-06
+D0913,health,Booking a health check-up,wait,positive,low,weeks,mixed,positive,7,79,2026-05-09
+D0914,purchase,Buying a new laptop,decline,positive,medium,weeks,positive,positive,8,80,2026-01-29
+D0915,relationships,Reconnecting with an old friend,act_now,none,medium,days,positive,mixed,2,51,2024-05-28
+D0916,relationships,Reconnecting with an old friend,wait,none,medium,months,positive,positive,7,77,2024-05-07
+D0917,other,A general life choice,compromise,positive,low,months,positive,positive,8,91,2023-10-19
+D0918,other,A personal decision,decline,positive,medium,hours,positive,positive,8,80,2026-01-01
+D0919,education,Applying for a master's degree,decline,positive,high,days,mixed,positive,10,76,2025-04-21
+D0920,education,Applying for a master's degree,decline,positive,low,days,positive,positive,9,81,2025-08-29
+D0921,productivity,Taking on an extra project,wait,negative,high,hours,mixed,negative,2,25,2026-02-01
+D0922,productivity,Dropping a low-value task,compromise,positive,low,months,positive,mixed,7,53,2024-09-21
+D0923,career,Considering a career switch,act_now,positive,high,months,positive,positive,6,84,2024-12-02
+D0924,relationships,Having a serious conversation,wait,none,medium,months,positive,negative,3,32,2024-06-09
+D0925,productivity,Dropping a low-value task,decline,none,high,days,positive,positive,6,63,2025-02-05
+D0926,productivity,Dropping a low-value task,act_now,mixed,low,weeks,negative,positive,9,90,2025-06-22
+D0927,education,Applying for a master's degree,decline,none,medium,days,positive,positive,9,81,2025-05-03
+D0928,career,Asked to lead a team,act_now,mixed,medium,hours,negative,negative,3,31,2025-06-23
+D0929,relationships,Moving in together,wait,negative,low,hours,mixed,mixed,5,54,2026-09-25
+D0930,travel,Accepting a work trip,decline,none,high,weeks,positive,mixed,6,57,2024-05-24
+D0931,purchase,Renting a bigger place,decline,none,low,weeks,positive,mixed,5,45,2025-07-19
+D0932,travel,Accepting a work trip,decline,positive,high,hours,positive,positive,8,88,2025-01-25
+D0933,career,Considering a career switch,act_now,none,medium,weeks,positive,positive,7,85,2024-02-18
+D0934,travel,Relocating to another city,act_now,none,medium,months,mixed,positive,7,86,2025-09-12
+D0935,productivity,Taking on an extra project,compromise,mixed,medium,weeks,mixed,positive,8,84,2024-06-19
+D0936,career,Asked to lead a team,decline,mixed,low,days,mixed,positive,7,65,2024-10-26
+D0937,other,A general life choice,act_now,none,medium,days,positive,negative,4,36,2025-12-29
+D0938,travel,Relocating to another city,wait,none,medium,weeks,mixed,negative,3,35,2025-11-30
+D0939,career,Job offer at a new company,wait,positive,medium,days,positive,positive,8,71,2025-12-20
+D0940,education,Applying for a master's degree,compromise,none,high,weeks,positive,positive,7,77,2024-06-01
+D0941,other,A family decision,compromise,none,low,days,mixed,positive,10,84,2023-12-15
+D0942,finance,Investing a portion of savings,decline,none,low,hours,mixed,negative,4,32,2024-10-27
+D0943,purchase,Renting a bigger place,compromise,negative,high,weeks,positive,negative,4,41,2026-05-02
+D0944,productivity,Dropping a low-value task,wait,positive,high,weeks,positive,positive,6,74,2024-06-07
+D0945,finance,Starting a side business,decline,mixed,medium,days,positive,negative,3,41,2025-05-07
+D0946,career,Job offer at a new company,wait,negative,low,months,positive,positive,8,81,2025-10-14
+D0947,career,Considering a career switch,compromise,mixed,low,weeks,positive,positive,6,62,2025-02-20
+D0948,finance,Starting a side business,wait,mixed,high,weeks,positive,negative,2,10,2026-01-04
+D0949,career,Asked to lead a team,compromise,positive,medium,weeks,mixed,positive,7,77,2025-06-06
+D0950,career,Asked to lead a team,compromise,none,medium,hours,mixed,positive,7,79,2026-03-23
+D0951,purchase,Buying a new laptop,decline,none,low,weeks,negative,negative,5,34,2025-10-09
+D0952,relationships,Having a serious conversation,act_now,mixed,medium,weeks,mixed,positive,7,70,2025-05-16
+D0953,career,Considering a career switch,decline,none,low,months,positive,mixed,7,58,2024-01-23
+D0954,career,Asked to lead a team,decline,none,high,weeks,mixed,positive,9,78,2025-02-01
+D0955,health,Changing my diet,act_now,mixed,medium,days,negative,negative,4,41,2026-02-17
+D0956,productivity,Adopting a new daily schedule,decline,mixed,low,hours,mixed,negative,3,41,2026-08-21
+D0957,purchase,Renting a bigger place,compromise,positive,high,weeks,mixed,positive,5,60,2023-10-16
+D0958,other,A general life choice,act_now,negative,medium,hours,positive,mixed,6,55,2024-04-01
+D0959,career,Considering a career switch,compromise,none,high,weeks,positive,positive,6,75,2026-08-04
+D0960,travel,Relocating to another city,act_now,mixed,high,months,positive,negative,2,31,2024-10-29
+D0961,purchase,Renting a bigger place,act_now,positive,low,weeks,positive,mixed,4,48,2026-01-20
+D0962,productivity,Adopting a new daily schedule,wait,negative,low,weeks,mixed,mixed,5,50,2025-12-04
+D0963,other,A personal decision,act_now,none,low,months,positive,positive,6,65,2026-08-01
+D0964,purchase,Buying a new laptop,act_now,mixed,medium,weeks,positive,negative,2,38,2024-11-26
+D0965,other,A family decision,act_now,negative,low,months,negative,mixed,4,48,2025-03-26
+D0966,productivity,Dropping a low-value task,compromise,none,medium,days,mixed,positive,8,82,2024-03-11
+D0967,health,Changing my diet,act_now,mixed,high,days,positive,mixed,5,54,2026-03-08
+D0968,other,A family decision,act_now,none,medium,hours,positive,mixed,5,47,2025-05-11
+D0969,relationships,Reconnecting with an old friend,decline,positive,high,weeks,negative,mixed,5,54,2023-12-28
+D0970,education,Enrolling in an online course,act_now,mixed,medium,weeks,negative,positive,9,74,2025-04-04
+D0971,purchase,Renting a bigger place,act_now,negative,medium,days,positive,negative,4,34,2025-01-14
+D0972,purchase,Replacing my phone,wait,positive,low,hours,positive,negative,4,36,2024-06-19
+D0973,purchase,Buying a new laptop,act_now,mixed,medium,days,positive,negative,2,25,2024-03-27
+D0974,career,Asked to lead a team,act_now,none,medium,hours,positive,positive,9,85,2025-02-11
+D0975,purchase,Replacing my phone,decline,none,high,weeks,positive,positive,8,81,2025-06-08
+D0976,relationships,Reconnecting with an old friend,act_now,positive,low,hours,negative,positive,7,71,2023-12-05
+D0977,health,Starting a new fitness routine,wait,negative,low,months,mixed,positive,6,62,2026-02-26
+D0978,purchase,Buying a new laptop,decline,positive,low,days,mixed,positive,10,83,2024-04-19
+D0979,finance,Starting a side business,decline,none,medium,months,positive,negative,5,42,2025-07-02
+D0980,education,Applying for a master's degree,act_now,none,low,weeks,positive,positive,8,77,2024-12-25
+D0981,career,Job offer at a new company,compromise,none,medium,hours,mixed,negative,4,34,2025-12-17
+D0982,finance,Starting a side business,act_now,positive,high,days,positive,positive,10,92,2024-12-08
+D0983,purchase,Renting a bigger place,decline,none,high,weeks,positive,positive,7,77,2023-12-08
+D0984,purchase,Renting a bigger place,compromise,mixed,high,days,mixed,mixed,6,59,2026-09-22
+D0985,relationships,Having a serious conversation,compromise,negative,high,hours,positive,negative,4,40,2025-05-12
+D0986,relationships,Reconnecting with an old friend,wait,none,high,days,positive,mixed,6,55,2026-04-09
+D0987,purchase,Buying a new laptop,act_now,positive,medium,hours,negative,positive,7,60,2026-05-25
+D0988,finance,Investing a portion of savings,act_now,positive,medium,months,positive,positive,7,84,2026-02-19
+D0989,travel,Relocating to another city,act_now,mixed,medium,hours,mixed,negative,1,31,2024-11-16
+D0990,purchase,Buying a new laptop,act_now,negative,low,weeks,positive,negative,3,43,2025-01-15
+D0991,education,Enrolling in an online course,decline,none,medium,weeks,mixed,positive,7,87,2023-12-13
+D0992,purchase,Renting a bigger place,compromise,none,low,days,mixed,positive,10,91,2024-06-21
+D0993,travel,Relocating to another city,compromise,negative,low,days,positive,negative,1,1,2023-11-08
+D0994,finance,Investing a portion of savings,act_now,negative,medium,weeks,positive,mixed,5,57,2025-08-02
+D0995,education,Enrolling in an online course,compromise,none,low,weeks,negative,positive,8,73,2024-01-07
+D0996,relationships,Having a serious conversation,compromise,none,medium,days,positive,positive,6,83,2026-09-25
+D0997,productivity,Dropping a low-value task,act_now,positive,medium,weeks,negative,positive,7,62,2025-02-16
+D0998,productivity,Taking on an extra project,decline,mixed,medium,hours,mixed,negative,1,22,2025-10-01
+D0999,other,A family decision,decline,none,low,weeks,positive,negative,2,24,2024-01-21
+D1000,purchase,Renting a bigger place,compromise,positive,medium,months,positive,positive,8,84,2025-12-02
