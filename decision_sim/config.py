@@ -6,6 +6,13 @@ from dotenv import load_dotenv
 
 ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(ROOT / ".env")
+try:  # Streamlit Cloud: keys come from the app's Secrets instead of .env
+    import streamlit as st
+    for _k in ("GROQ_API_KEY", "GROQ_MODEL", "GROQ_FALLBACK_MODEL"):
+        if _k in st.secrets and not os.getenv(_k):
+            os.environ[_k] = str(st.secrets[_k])
+except Exception:
+    pass  # no secrets.toml locally is fine
 
 DATA_PATH = ROOT / "data" / "decisions.csv"
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()

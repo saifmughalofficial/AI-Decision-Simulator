@@ -5,7 +5,6 @@ backgroundColor = "#07070f"
 secondaryBackgroundColor = "#13132a"
 textColor = "#ececf7"
 [server]
-headless = false
-port = 8502
+headless = true
 [browser]
 gatherUsageStats = false
